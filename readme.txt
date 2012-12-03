@@ -3,7 +3,7 @@ Contributors: casengo
 Tags: casengo, chat widget, live chat, customer support
 Requires at least: 3.3
 Tested up to: 3.4
-Stable tag: trunk
+Stable tag: tags/1.0
 
 This plugin helps you to install the Casengo chat widget on every page of your blog or website, so you can handle enquiries directly from your website
 
