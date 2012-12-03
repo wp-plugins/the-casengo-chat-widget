@@ -1,15 +1,15 @@
-=== Casengo Widget ===
+=== Casengo Contact Widget ===
 Contributors: casengo 
-Tags: casengo, chat widget, live chat, customer support
+Tags: casengo, contact widget, customer support, live chat
 Requires at least: 3.3
 Tested up to: 3.4
-Stable tag: tags/1.5
+Stable tag: tags/1.6
 
-This plugin helps you to install the Casengo widget on every page of your blog or website, so you can handle enquiries via email and chat directly from your website
+This plugin installs the Casengo widget on your blog or website, so you can handle enquiries via email and chat directly from your website.
 
 == Description ==
 
-<strong id=\"internal-source-marker_0.6164913445245475\" style=\"font-family: \'Times New Roman\'; font-size: medium; font-weight: normal;\"><span style=\"font-size: 15px; font-family: Calibri; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">This plugin helps you to install the Casengo widget on every page of your blog or website, so you can handle enquiries via email and chat directly from your website. Casengo helps you to respond to customers faster than ever and improve their satisfaction with a groovy mixture of real-time chat and email.</span>  
+<strong id=\"internal-source-marker_0.6164913445245475\" style=\"font-family: \'Times New Roman\'; font-size: medium; font-weight: normal;\"><span style=\"font-size: 15px; font-family: Calibri; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">This plugin installs the Casengo widget on your blog or website, so you can handle enquiries via email and chat directly from your website. Casengo helps you to respond to customers faster than ever and improve their satisfaction with a groovy mixture of real-time chat and email.</span>  
   
 <span style=\"font-size: 15px; font-family: Calibri; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">To configure the plugin you must have a Casengo account. Have an account already? Great! If not, </span><a href=\"http://www.casengo.com/\"><span style=\"font-size: 15px; font-family: Calibri; color: #1155cc; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">sign up here</span></a><span style=\"font-size: 15px; font-family: Calibri; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">. Casengo is free to trial for 30 days; thereafter, the first agent is always free. If you&#39;re new to Casengo, we suggest you check out our complete set of customer support features. They&#39;ll let you manage your customer enquiries via phone, email, chat or social media - the choice is yours. </span>  
   
