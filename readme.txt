@@ -1,4 +1,4 @@
-=== Casengo Chat Widget ===
+=== Casengo Widget ===
 Contributors: casengo 
 Tags: casengo, chat widget, live chat, customer support
 Requires at least: 3.3
