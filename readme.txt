@@ -36,6 +36,7 @@ This plugin helps you to install the Casengo chat widget on every page of your b
 </strong>
 == Changelog ==
 1.0 Initial release
+1.1 fixed some language tags
 
 ==Readme Generator== 
 
