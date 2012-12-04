@@ -3,15 +3,15 @@ Contributors: casengo
 Tags: casengo, contact widget, customer support, live chat
 Requires at least: 3.3
 Tested up to: 3.4
-Stable tag: tags/1.6
+Stable tag: tags/1.7
 
-This plugin installs the Casengo widget on your blog or website, so you can handle enquiries via email and chat directly from your website.
+This plugin installs the Casengo widget on your blog or website, so you can handle enquiries via email and live chat directly from your website.
 
 == Description ==
 
-<strong id=\"internal-source-marker_0.6164913445245475\" style=\"font-family: \'Times New Roman\'; font-size: medium; font-weight: normal;\"><span style=\"font-size: 15px; font-family: Calibri; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">This plugin installs the Casengo widget on your blog or website, so you can handle enquiries via email and chat directly from your website. Casengo helps you to respond to customers faster than ever and improve their satisfaction with a groovy mixture of real-time chat and email.</span>  
+<strong id=\"internal-source-marker_0.6164913445245475\" style=\"font-family: \'Times New Roman\'; font-size: medium; font-weight: normal;\"><span style=\"font-size: 15px; font-family: Calibri; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">This plugin installs the Casengo widget on your blog or website, so you can handle enquiries via email and live chat directly from your website. Casengo helps you to respond to customers faster than ever and improve their satisfaction with a groovy mixture of real-time chat and email.</span>  
   
-<span style=\"font-size: 15px; font-family: Calibri; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">To configure the plugin you must have a Casengo account. Have an account already? Great! If not, </span><a href=\"http://www.casengo.com/\"><span style=\"font-size: 15px; font-family: Calibri; color: #1155cc; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">sign up here</span></a><span style=\"font-size: 15px; font-family: Calibri; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">. Casengo is free to trial for 30 days; thereafter, the first agent is always free. If you&#39;re new to Casengo, we suggest you check out our complete set of customer support features. They&#39;ll let you manage your customer enquiries via phone, email, chat or social media - the choice is yours. </span>  
+<span style=\"font-size: 15px; font-family: Calibri; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">To configure the plugin you must have a Casengo account. Have an account already? Great! If not, </span><a href=\"http://www.casengo.com/\"><span style=\"font-size: 15px; font-family: Calibri; color: #1155cc; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">sign up here</span></a><span style=\"font-size: 15px; font-family: Calibri; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">. Casengo is free to trial for 30 days; thereafter, the first agent is always free. If you&#39;re new to Casengo, we suggest you check out our complete set of customer support features. They&#39;ll let you manage your customer enquiries via phone, email, live chat or social media - the choice is yours. </span>  
   
 <span style=\"font-size: 15px; font-family: Calibri; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">Casengo&#39;s Cloud-based, affordable social customer support software brings the human touch back into customer service. Regardless of channel type, it simplifies real-time conversation by presenting a unique Hybrid Messaging Timeline. Whether a company consists of just one person or a large team, it&#39;s always time to Casengo.</span>  
   
@@ -26,8 +26,8 @@ This plugin installs the Casengo widget on your blog or website, so you can hand
 <span style=\"font-size: 15px; font-family: Calibri; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">5. After installation, select &#39;Settings&#39; from the left-hand menu in your Worpress admin section.</span>  
 <span style=\"font-size: 15px; font-family: Calibri; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">6. Select the Casengo application. You&#39;ll be taken to the Widget options.</span>  
 <span style=\"font-size: 15px; font-family: Calibri; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">7. Add the subdomain information assigned to your Casengo account.</span>  
-<span style=\"font-size: 15px; font-family: Calibri; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">8. Choose the position where you want the chat button to appear on your website or blog.</span>  
-<span style=\"font-size: 15px; font-family: Calibri; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">9. Give the chat button a label so visitors understand it&#39;s a live chat button (such as &#39;contact us&#39;, &#39;chat now&#39;, &#39;feedback&#39;).</span>  
+<span style=\"font-size: 15px; font-family: Calibri; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">8. Choose the position where you want the live chat button to appear on your website or blog.</span>  
+<span style=\"font-size: 15px; font-family: Calibri; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">9. Give the live chat button a label so visitors understand it&#39;s a live chat button (such as &#39;contact us&#39;, &#39;live chat now&#39;, &#39;feedback&#39;).</span>  
 <span style=\"font-size: 15px; font-family: Calibri; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">10. Select the colour you want to contact button to be, and update.</span></strong>
 == Frequently Asked Questions ==
 
