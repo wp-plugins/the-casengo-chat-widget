@@ -4,7 +4,7 @@ Tags: casengo, Chat, chat button, chat with visitors, clickdesk, click desk, con
 
 Requires at least: 3.3
 Tested up to: 3.4
-Stable tag: tags/1.8.2
+Stable tag: tags/1.8.3
 
 Casengo is Customer Support Software (Live Chat, Email, Social Media) from the Cloud, First User is Always Free!
 
@@ -12,11 +12,15 @@ Casengo is Customer Support Software (Live Chat, Email, Social Media) from the C
 
 **This plugin installs the Casengo widget on your blog or website, so you can handle enquiries via email and live chat directly from your website. Casengo helps you to respond to customers faster than ever and improve their satisfaction with a groovy mixture of real-time chat and email.**
 
-**Check out our Product Video:**
+Check out the Casengo Video:
 
 [vimeo http://vimeo.com/55199455]
 
-To configure the plugin you must have a Casengo account. Have an account already? Great! If not, <a href=\"http://get.casengo.com/signup\" target=\"_blank\" title=\"Sign up for a free Casengo account\">sign up here</a>. Casengo is free to trial for 30 days; thereafter, **the first agent is always free!**
+To configure the plugin you must have a Casengo account. Have an account already? Great! If not, <a href=\"http://get.casengo.com/signup\" target=\"_blank\" title=\"Sign up for a free Casengo account\">sign up here</a>.
+
+Casengo is free to trial for 30 days; thereafter, **the first agent is always free!**
+
+It is Easy! Get started in 2 minutes, no training needed!
 
 Step 1. Create a free Casengo account at <a href=\"http://get.casengo.com/signup\">get.casengo.com/signup</a><br>
 Step 2. log into your WordPress Admin Site, search for plugin 'casengo' and install it.<br>
@@ -77,13 +81,13 @@ More information on product features and pricing can be found at <a href=\"http:
 
 == Frequently Asked Questions ==
 
-*   **Do I need a Casengo account to add the widget to my site? ** *
+*   **Do I need a Casengo account to add the widget to my site?**
 
 Yes, you do. You can sign up here. Casengo offers a free trial for 30 days; thereafter, the first agent is always free. More information on product features and pricing can be found at casengo.com.
 
 == Screenshots ==
 
-1. The Chat widget live on yeloworld.com
+1. See the Live Chat button implemented on Yeloworld.com
 
 == Changelog ==
 
