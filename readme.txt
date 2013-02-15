@@ -1,10 +1,10 @@
-=== Casengo Customer Support Software - Live Chat and Helpdesk Support Plugin ===
+=== Casengo Live Chat ===
 Contributors: casengo 
 Tags: casengo, Chat, chat button, chat with visitors, clickdesk, click desk, contact, contact call, contact form, contact plugin, contact us, customer satisfaction, customer service software, customer support software, desk.com, email, email ticketing, Facebook, facebook chat, feedback, free live chat, freshdesk, Google chat button, help desk, helpdesk software, help desk software, helpdesk, IM Chat, live chat, live chat inc, live chat support, live contact, live help, live support, live support software, livechat, live chat, live chat software, livechatinc, livehelp, livesupport, olark, online conversion, online support, plugin, proactive chat, snapengage, support, support software, ticket, ticketing, twitter,web chat, webchat, website chat software, widget, wordpress help desk, wordpress live chat, wordpress live chat plugin, zendesk, Zopim
 
 Requires at least: 3.3
 Tested up to: 3.4
-Stable tag: tags/1.8.3
+Stable tag: tags/1.8.4
 
 Casengo is Customer Support Software (Live Chat, Email, Social Media) from the Cloud, First User is Always Free!
 
@@ -20,7 +20,7 @@ To configure the plugin you must have a Casengo account. Have an account already
 
 Casengo is free to trial for 30 days; thereafter, **the first agent is always free!**
 
-It is Easy! Get started in 2 minutes, no training needed!
+**It is Easy! Get started in 2 minutes, no training needed!**
 
 Step 1. Create a free Casengo account at <a href=\"http://get.casengo.com/signup\">get.casengo.com/signup</a><br>
 Step 2. log into your WordPress Admin Site, search for plugin 'casengo' and install it.<br>
