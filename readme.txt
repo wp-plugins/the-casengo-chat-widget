@@ -4,7 +4,7 @@ Tags: casengo, Chat, chat button, chat with visitors, clickdesk, click desk, con
 
 Requires at least: 3.3
 Tested up to: 3.4
-Stable tag: tags/1.8
+Stable tag: tags/1.8.1
 
 Casengo is Customer Support Software (Live Chat, Email, Social Media) from the Cloud, First User is Always Free!
 
@@ -14,8 +14,8 @@ Casengo is Customer Support Software (Live Chat, Email, Social Media) from the C
 
 To configure the plugin you must have a Casengo account. Have an account already? Great! If not, <a href=\"http://get.casengo.com/signup\" target=\"_blank\" title=\"Sign up for a free Casengo account\">sign up here</a>. Casengo is free to trial for 30 days; thereafter, the first agent is always free!
 
-Step 1. Create a free Casengo account at <a href=\"http://get.casengo.com/signup\">get.casengo.com/signup</a>
-Step 2. log into your WordPress Admin Site, search for plugin 'casengo' and install it.
+Step 1. Create a free Casengo account at <a href=\"http://get.casengo.com/signup\">get.casengo.com/signup</a><br>
+Step 2. log into your WordPress Admin Site, search for plugin 'casengo' and install it.<br>
 Step 3. Go to the Casengo config section in WordPress and set your unique Casengo subdomain, color theme and position!
 
 ...et voila, the chat button magically appears on your website!
@@ -24,7 +24,7 @@ Step 3. Go to the Casengo config section in WordPress and set your unique Caseng
 
 "We've opted for Casengo from day one, as it is a very user-friendly Cloud customer service app with an attractive pricing model," says Philippe Joly, founder of Yelo , one of Casengo's happy customers. "Casengo allows us to centralize all customer enquiries - whether through email, chat or social media - in one single inbox. This is critical for providing excellent service to our users. The Casengo app is plug and play: setting up the account took us hardly two minutes, and installation of the Wordpress Live Chat widget was just as easy."
 
-"We decided to use Casengo mainly because we’d be able to get started right away. You hardly need any technical knowledge to get this app running." - Dorians Hofs, Parfumswinkel.nl
+"We decided to use Casengo mainly because we'd be able to get started right away. You hardly need any technical knowledge to get this app running." - Dorians Hofs, Parfumswinkel.nl
 
 "I downloaded the Casengo plugin for Wordpress. The contact button appeared in one go, and I was able to change both its text and colour to match our corporate identity. Brilliant!" - Davy van de Haar, BeLikeUs
 
@@ -34,7 +34,7 @@ Step 3. Go to the Casengo config section in WordPress and set your unique Caseng
 
 [vimeo http://vimeo.com/55199455]
 
-Casengo\'s Cloud-based, affordable social customer support software brings the human touch back into customer service. Regardless of channel type, it simplifies real-time conversation by presenting a unique Hybrid Messaging Timeline. Whether a company consists of just one person or a large team, it\'s always time to Casengo.
+Casengo's Cloud-based, affordable social customer support software brings the human touch back into customer service. Regardless of channel type, it simplifies real-time conversation by presenting a unique Hybrid Messaging Timeline. Whether a company consists of just one person or a large team, it's always time to Casengo.
 
 More information on product features and pricing can be found at <a href=\"http://www.casengo.com\" target=\"_blank\" title=\"Casengo\">casengo.com</a>.
 
@@ -43,22 +43,22 @@ More information on product features and pricing can be found at <a href=\"http:
 <div>
   <ol>
     <li>
-      If you don\'t have a Casengo account already, <a href=\"http://get.casengo.com/signup\" target=\"_blank\" title=\"Casengo signup page\">please create one</a> now. Please note the subdomain assigned to you when you sign up. You can also find your subdomain information in the confirmation email you received after signing up.
+      If you don't have a Casengo account already, <a href=\"http://get.casengo.com/signup\" target=\"_blank\" title=\"Casengo signup page\">please create one</a> now. Please note the subdomain assigned to you when you sign up. You can also find your subdomain information in the confirmation email you received after signing up.
     </li>
     <li>
-      In the administration section of your WordPress site, hit the \'plugins\' option and then select \'add new\'.
+      In the administration section of your WordPress site, hit the 'plugins' option and then select 'add new'.
     </li>
     <li>
       Search for Casengo.
     </li>
     <li>
-      Click \'Install Now\'.
+      Click 'Install Now'.
     </li>
     <li>
-      After installation, select \'Settings\' from the left-hand menu in your Worpress admin section.
+      After installation, select 'Settings' from the left-hand menu in your Worpress admin section.
     </li>
     <li>
-      Select the Casengo application. You\'ll be taken to the Widget options.
+      Select the Casengo application. You'll be taken to the Widget options.
     </li>
     <li>
       Add the subdomain information assigned to your Casengo account.
@@ -67,7 +67,7 @@ More information on product features and pricing can be found at <a href=\"http:
       Choose the position where you want the live chat button to appear on your website or blog.
     </li>
     <li>
-      Give the live chat button a label so visitors understand it\'s a live chat button (such as \'contact us\', \'live chat now\', \'feedback\').
+      Give the live chat button a label so visitors understand it's a live chat button (such as 'contact us', 'live chat now', 'feedback').
     </li>
     <li>
       Select the colour you want to contact button to be, and update.
