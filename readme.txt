@@ -4,7 +4,7 @@ Tags: casengo, Chat, chat button, chat with visitors, clickdesk, click desk, con
 
 Requires at least: 3.3
 Tested up to: 3.4
-Stable tag: tags/1.8.1
+Stable tag: tags/1.8.2
 
 Casengo is Customer Support Software (Live Chat, Email, Social Media) from the Cloud, First User is Always Free!
 
@@ -12,7 +12,11 @@ Casengo is Customer Support Software (Live Chat, Email, Social Media) from the C
 
 **This plugin installs the Casengo widget on your blog or website, so you can handle enquiries via email and live chat directly from your website. Casengo helps you to respond to customers faster than ever and improve their satisfaction with a groovy mixture of real-time chat and email.**
 
-To configure the plugin you must have a Casengo account. Have an account already? Great! If not, <a href=\"http://get.casengo.com/signup\" target=\"_blank\" title=\"Sign up for a free Casengo account\">sign up here</a>. Casengo is free to trial for 30 days; thereafter, the first agent is always free!
+**Check out our Product Video:**
+
+[vimeo http://vimeo.com/55199455]
+
+To configure the plugin you must have a Casengo account. Have an account already? Great! If not, <a href=\"http://get.casengo.com/signup\" target=\"_blank\" title=\"Sign up for a free Casengo account\">sign up here</a>. Casengo is free to trial for 30 days; thereafter, **the first agent is always free!**
 
 Step 1. Create a free Casengo account at <a href=\"http://get.casengo.com/signup\">get.casengo.com/signup</a><br>
 Step 2. log into your WordPress Admin Site, search for plugin 'casengo' and install it.<br>
@@ -29,10 +33,6 @@ Step 3. Go to the Casengo config section in WordPress and set your unique Caseng
 "I downloaded the Casengo plugin for Wordpress. The contact button appeared in one go, and I was able to change both its text and colour to match our corporate identity. Brilliant!" - Davy van de Haar, BeLikeUs
 
 "Since using Casengo, we can respond to our customers 3 times as fast. It surprised us how easily customers switch between email and live chat. Casengo's just so simple." - Dick Franken, Takeaway.com
-
-**Check out our Product Video**
-
-[vimeo http://vimeo.com/55199455]
 
 Casengo's Cloud-based, affordable social customer support software brings the human touch back into customer service. Regardless of channel type, it simplifies real-time conversation by presenting a unique Hybrid Messaging Timeline. Whether a company consists of just one person or a large team, it's always time to Casengo.
 
@@ -77,7 +77,7 @@ More information on product features and pricing can be found at <a href=\"http:
 
 == Frequently Asked Questions ==
 
-*   **Do I need a Casengo account to add the widget to my site? **
+*   **Do I need a Casengo account to add the widget to my site? ** *
 
 Yes, you do. You can sign up here. Casengo offers a free trial for 30 days; thereafter, the first agent is always free. More information on product features and pricing can be found at casengo.com.
 
