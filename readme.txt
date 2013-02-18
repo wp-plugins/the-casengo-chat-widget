@@ -124,10 +124,10 @@ To forward emails from your Outlook account to your Casengo email address, you n
 5. Under Step 1: Select condition(s), select the check box next to each condition that you want the incoming message to match. If want all emails to be forwarded to your Casengo account, regardless of any criteria, leave all the boxes unchecked. If you do not select a condition(s) click 'Next' and proceed to step 7.
 6. Under Step 2: Edit the rule description, click the underlined value that corresponds to the condition, and then select or type the necessary information.
 7. Under Step 1: Select actions, check the box 'Redirect to people or public group'.
-8. Under Step 2: Edit the rule description, click the underlined ‘People or public group' and in the 'To' field at the bottom of the address book, input your bespoke Casengo email address and click 'Ok'. You should now see, in Step 2, 'Apply this rule after the message arrives, redirect it to . Click 'Next'. 
+8. Under Step 2: Edit the rule description, click the underlined 'People or public group' and in the 'To' field at the bottom of the address book, input your bespoke Casengo email address and click 'Ok'. You should now see, in Step 2, 'Apply this rule after the message arrives, redirect it to . Click 'Next'. 
 9. Under Step 1: Select exception(s) (if necessary), check any exceptions you wish to apply. Update 'Step 2' with the additional information needed by clicking on the underlined text. Click 'Next'. 
 10. Under Step 1: Specify a name for this rule, input the name of your rule. For example, Casengo redirect.
-11. Under Step 2: Setup rule options, choose whether to ‘Run this rule on messages already in inbox’ or 'Turn on this rule' so that only new messages are forwarded to your Casengo account.
+11. Under Step 2: Setup rule options, choose whether to 'Run this rule on messages already in inbox' or 'Turn on this rule' so that only new messages are forwarded to your Casengo account.
 12. Click 'Finish', then 'Apply' and finally 'Ok', and you're done!
 
 == Screenshots ==
