@@ -83,7 +83,7 @@ More information on product features and pricing can be found at <a href=\"http:
 
 *   **Do I need a Casengo account to add the widget to my site?**
 
-Yes, you do. You can sign up here. Casengo offers a free trial for 30 days; thereafter, the first agent is always free. More information on product features and pricing can be found at casengo.com.
+Yes, you do. You can <a href=\"http://get.casengo.com/signup/?utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\">sign up here</a>. Casengo offers a free trial for 30 days; thereafter, the first agent is always free. More information on product features and pricing can be found at <a href=\"http://www.casengo.com\">casengo.com</a>.
 
 *   **How can I set up email forwarding for Gmail?**
 
