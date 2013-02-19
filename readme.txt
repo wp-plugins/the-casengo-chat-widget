@@ -16,13 +16,13 @@ Check out the Casengo Video:
 
 [vimeo http://vimeo.com/55199455]
 
-To configure the plugin you must have a Casengo account. Have an account already? Great! If not, <a href=\"http://get.casengo.com/signup/?utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\" target=\"_blank\" title=\"Sign up for a free Casengo account\">sign up here</a>.
+To configure the plugin you must have a Casengo account. Have an account already? Great! If not, <a href=\"http://get.casengo.com/signup/?ref=wordpress-plugin-page&utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\" target=\"_blank\" title=\"Sign up for a free Casengo account\">sign up here</a>.
 
 Casengo is free to trial for 30 days; thereafter, **the first agent is always free!**
 
 **It is Easy! Get started in 2 minutes, no training needed!**
 
-Step 1. Create a free Casengo account at <a href=\"http://get.casengo.com/signup/?utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\">get.casengo.com/signup</a><br>
+Step 1. Create a free Casengo account at <a href=\"http://get.casengo.com/signup/?ref=wordpress-plugin-page&utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\">get.casengo.com/signup</a><br>
 Step 2. log into your WordPress Admin Site, search for plugin 'casengo' and install it.<br>
 Step 3. Go to the Casengo config section in WordPress and set your unique Casengo subdomain, color theme and position!
 
@@ -47,7 +47,7 @@ More information on product features and pricing can be found at <a href=\"http:
 <div>
   <ol>
     <li>
-      If you don't have a Casengo account already, <a href=\"http://get.casengo.com/signup/?utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\" target=\"_blank\" title=\"Casengo signup page\">please create one</a> now. Please note the subdomain assigned to you when you sign up. You can also find your subdomain information in the confirmation email you received after signing up.
+      If you don't have a Casengo account already, <a href=\"http://get.casengo.com/signup/?ref=wordpress-plugin-page&utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\" target=\"_blank\" title=\"Casengo signup page\">please create one</a> now. Please note the subdomain assigned to you when you sign up. You can also find your subdomain information in the confirmation email you received after signing up.
     </li>
     <li>
       In the administration section of your WordPress site, hit the 'plugins' option and then select 'add new'.
@@ -83,7 +83,7 @@ More information on product features and pricing can be found at <a href=\"http:
 
 *   **Do I need a Casengo account to add the widget to my site?**
 
-Yes, you do. You can <a href=\"http://get.casengo.com/signup/?utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\">sign up here</a>. Casengo offers a free trial for 30 days; thereafter, the first agent is always free. More information on product features and pricing can be found at <a href=\"http://www.casengo.com\">casengo.com</a>.
+Yes, you do. You can <a href=\"http://get.casengo.com/signup/?ref=wordpress-plugin-page&utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\">sign up here</a>. Casengo offers a free trial for 30 days; thereafter, the first agent is always free. More information on product features and pricing can be found at <a href=\"http://www.casengo.com\">casengo.com</a>.
 
 *   **How can I set up email forwarding for Gmail?**
 
