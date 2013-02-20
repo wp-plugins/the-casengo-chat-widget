@@ -95,11 +95,11 @@ It is easy... simply put your "support@yourcompanyname.casengo.com" (the email a
 the contact form.
 
 Steps to take:
-1) Login to your wordpress admin;
-2) Click on "Contact" in admin menu;
-3) Click on the form you want to use;
-4) In the "Mail" fields include "support@yourcompanyname.casengo.com" in the "To" field;
-5) Save the changes made.
+1. Login to your wordpress admin.  
+2. Click on "Contact" in admin menu.  
+3. Click on the form you want to use.  
+4. In the "Mail" fields include "support@yourcompanyname.casengo.com" in the "To" field.  
+5. Save the changes made.
 
 *   **How can I set up email forwarding for Gmail?**
 
