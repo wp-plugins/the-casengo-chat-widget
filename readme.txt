@@ -94,7 +94,7 @@ Casengo currently support English, German, Dutch and Russian. If you want to hel
 It is easy... simply put your "support@yourcompanyname.casengo.com" (the email address you have received from Casengo to forward your emails to) in
 the contact form.
 
-Steps to take:
+Steps to take:  
 1. Login to your wordpress admin.  
 2. Click on "Contact" in admin menu.  
 3. Click on the form you want to use.  
