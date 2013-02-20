@@ -89,6 +89,18 @@ Yes, you do. You can <a href=\"http://get.casengo.com/signup/?ref=wordpress-plug
 
 Casengo currently support English, German, Dutch and Russian. If you want to help out Casengo in adding new languages drop us a note at support@casengo.com
 
+*   **How do I integrate Casengo with "Contact Form 7"?**
+
+It is easy... simply put your "support@yourcompanyname.casengo.com" (the email address you have received from Casengo to forward your emails to) in
+the contact form.
+
+Steps to take:
+1) Login to your wordpress admin;
+2) Click on "Contact" in admin menu;
+3) Click on the form you want to use;
+4) In the "Mail" fields include "support@yourcompanyname.casengo.com" in the "To" field;
+5) Save the changes made.
+
 *   **How can I set up email forwarding for Gmail?**
 
 Forward emails from your Gmail account to your Casengo email address, by simply following the instructions below or watch the video:
@@ -133,20 +145,6 @@ To forward emails from your Outlook account to your Casengo email address, you n
 10. Under Step 1: Specify a name for this rule, input the name of your rule. For example, Casengo redirect.
 11. Under Step 2: Setup rule options, choose whether to 'Run this rule on messages already in inbox' or 'Turn on this rule' so that only new messages are forwarded to your Casengo account.
 12. Click 'Finish', then 'Apply' and finally 'Ok', and you're done!
-
-*   **How can I set up email forwarding for Outlook?**
-
-How do I integrate Casengo with "Contact Form 7"?
-
-It is easy... simply put your "support@yourcompanyname.casengo.com" (the email address you have received from Casengo to forward your emails to) in
-the contact form.
-
-Steps to take:
-1) Login to your wordpress admin;
-2) Click on "Contact" in admin menu;
-3) Click on the form you want to use;
-4) In the "Mail" fields include "support@yourcompanyname.casengo.com" in the "To" field;
-5) Save the changes made.
 
 == Screenshots ==
 
