@@ -4,7 +4,7 @@ Tags: admin, casengo, Chat, chat button, chat with visitors, clickdesk, click de
 
 Requires at least: 3.3
 Tested up to: 3.4
-Stable tag: tags/1.8.4
+Stable tag: tags/1.8.5
 
 Casengo is Customer Support Software (Live Chat, Email, Social Media) from the Cloud, First User is Always Free!
 
