@@ -1,6 +1,6 @@
 === Casengo Live Chat ===
 Contributors: casengo 
-Tags: admin, business chat, casengo, Chat, chat button, chat facebook like, chat free, chat live, chat online, chat with visitors, clickdesk, click desk, contact, contact call, contact form, contact plugin, contact us, customer satisfaction, customer service software, customer support software, desk.com, email, email ticketing, Facebook, facebook chat, feedback, free live chat, free live chat, freshdesk, Google chat button, help desk, helpdesk software, help desk software, helpdesk, IM Chat, instant chat, Live, livechat, live chat, live chat inc, live chat support, live contact, live help, live support, live support software, livechat, live chat, live chat software, livechatinc, livehelp, livesupport, olark, online conversion, online support, plugin, post, proactive chat, public chat, snapengage, support, support software, ticket, ticketing, twitter, twitter chat, web chat, webchat, website chat software, widget, wordpress help desk, wordpress live chat, wordpress live chat plugin, zendesk, Zopim
+Tags: admin, business chat, casengo, Chat, chat button, chat facebook like, chat free, chat live, chat online, chat with visitors, clickdesk, click desk, contact, contact call, contact form, contact plugin, contact us, customer satisfaction, customer service software, customer support software, desk.com, email, email ticketing, Facebook, facebook chat, feedback, free live chat, free live chat, freshdesk, Google chat button, help desk, helpdesk software, help desk software, helpdesk, IM Chat, instant chat, Live, livechat, live chat, live chat inc, live chat page, live chat support, live contact, live help, live support, live support software, livechat, live chat, live chat software, livechatinc, livehelp, livesupport, olark, online conversion, online support, plugin, post, proactive chat, public chat, snapengage, support, support software, ticket, ticketing, twitter, twitter chat, web chat, webchat, website chat software, widget, wordpress help desk, wordpress live chat, wordpress live chat plugin, zendesk, Zopim
 
 Requires at least: 3.3
 Tested up to: 3.4
@@ -10,13 +10,13 @@ Casengo is Customer Support Software (Live Chat, Email, Social Media) from the C
 
 == Description ==
 
-**This plugin installs the Casengo widget on your blog or website, so you can handle enquiries via email and live chat directly from your website. Casengo helps you to respond to customers faster than ever and improve their satisfaction with a groovy mixture of real-time chat and email.**
+**This plugin installs the Casengo Live Chat widget on your blog or website, so you can handle enquiries via email and live chat directly from your website. Casengo helps you to respond to customers faster than ever and improve their satisfaction with a groovy mixture of real-time chat and email.**
 
 Check out the Casengo Video:
 
 [vimeo http://vimeo.com/55199455]
 
-To configure the plugin you must have a Casengo account. Have an account already? Great! If not, <a href=\"http://get.casengo.com/signup/?ref=wordpress-plugin-page&utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\" target=\"_blank\" title=\"Sign up for a free Casengo account\">sign up here</a>.
+To configure the live chat plugin you must have a Casengo account. Have an account already? Great! If not, <a href=\"http://get.casengo.com/signup/?ref=wordpress-plugin-page&utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\" target=\"_blank\" title=\"Sign up for a free Casengo account\">sign up here</a>.
 
 Casengo is free to trial for 30 days; thereafter, **the first agent is always free!**
 
@@ -26,7 +26,7 @@ Step 1. Create a free Casengo account at <a href=\"http://get.casengo.com/signup
 Step 2. log into your WordPress Admin Site, search for plugin 'casengo' and install it.<br>
 Step 3. Go to the Casengo config section in WordPress and set your unique Casengo subdomain, color theme and position!
 
-...et voila, the chat button magically appears on your website!
+...et voila, the live chat button magically appears on your website!
 
 **Casengo Testimonials**
 
@@ -34,7 +34,7 @@ Step 3. Go to the Casengo config section in WordPress and set your unique Caseng
 
 "We decided to use Casengo mainly because we'd be able to get started right away. You hardly need any technical knowledge to get this app running." - Dorians Hofs, Parfumswinkel.nl
 
-"I downloaded the Casengo plugin for Wordpress. The contact button appeared in one go, and I was able to change both its text and colour to match our corporate identity. Brilliant!" - Davy van de Haar, BeLikeUs
+"I downloaded the Casengo Live Chat plugin for Wordpress. The contact button appeared in one go, and I was able to change both its text and colour to match our corporate identity. Brilliant!" - Davy van de Haar, BeLikeUs
 
 "Since using Casengo, we can respond to our customers 3 times as fast. It surprised us how easily customers switch between email and live chat. Casengo's just so simple." - Dick Franken, Takeaway.com
 
