@@ -104,8 +104,8 @@ function casengo_settings() {
 
 <form name="form1" method="post" action="">
 <input type="hidden" name="<?php echo $hidden_field_name; ?>" value="Y">
-In order to display the live chat widget on your WordPress site, fill in your Casengo Subdomain and configure how the button will be shown.
-<br><br>
+<p>To configure the live chat plugin you must have a Casengo account. Have an account already? Great! If not, <a href="http://get.casengo.com/signup/?ref=wordpress-plugin-admin&amp;utm_source=WordPress&amp;utm_medium=Plugin&amp;utm_campaign=WordPress%2BPlugin%2BSignups" target="_blank" title="Sign up for a free Casengo account" rel="nofollow">sign up here</a>.</p>
+<br>
 <p><h3><strong><?php _e("Your Casengo subdomain (eg. mycompanyname)", 'menu-test' ); ?></h3></strong>
 Enter your subdomain of your Casengo account below. This field is mandatory. If it is not specified, the button will not appear on the site.<br><br>
 <table style="margin-left:20px">
