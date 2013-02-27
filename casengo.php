@@ -3,7 +3,7 @@
    Plugin Name: Casengo Contact Widget
    Plugin URI: http://www.casengo.com/plugins/wordpress/v2
    Description: A plugin to add the Casengo widget to the Wordpress site
-   Version: 1.8.5
+   Version: 1.8.6
    Author: Thijs van der Veen
    Author URI: http://www.casengo.com
    License: GPL2
@@ -65,13 +65,23 @@ function casengo_settings() {
         // Save the posted values in the database
         update_option( 'cas_widget_pos', $_POST['cas_widget_pos']);
         update_option( 'cas_widget_domain', $_POST['cas_widget_domain']);
-        update_option( 'cas_widget_label', stripslashes($_POST['cas_widget_label']));
+        
+        // If customer enters empty label, use default
+        if($_POST['cas_widget_label'] == '') {
+            $label='Contact';
+        } else {
+            $label=stripslashes($_POST['cas_widget_label']);
+        }
+        
+        update_option( 'cas_widget_label', $label);
         update_option( 'cas_widget_theme', $_POST['cas_widget_theme']);
+        
+        
 
         // Put an settings updated message on the screen
 
 ?>
-<div class="updated"><p><strong><?php _e('settings saved.', 'menu-general' ); ?></strong></p></div>
+<div class="updated"><p><?php _e('Settings saved. <strong><a href="' . get_site_url() . '">Visit your site</a></strong> to check your new widget settings.', 'menu-general' ); ?></p></div>
 <?php
 
     }
@@ -80,7 +90,7 @@ function casengo_settings() {
     echo '<div class="wrap">';
 
     // header
-    echo "<h2>" . __( 'Widget options', 'menu-general' ) . "</h2>";
+    echo "<h2>" . __( 'Casengo Widget options', 'menu-general' ) . "</h2>";
 
     // settings form
   
@@ -94,23 +104,36 @@ function casengo_settings() {
 
 <form name="form1" method="post" action="">
 <input type="hidden" name="<?php echo $hidden_field_name; ?>" value="Y">
-
-<p><h3><strong><?php _e("Your Casengo subdomain: (eg. mycompanyname)", 'menu-test' ); ?></h3></strong>
-<input type="text" name="cas_widget_domain" value="<?php echo get_option('cas_widget_domain') ?>">
-<br /><br />
-<p><h3><strong><?php _e("Position:", 'menu-test' ); ?></strong></h3> 
-<select name="<?php echo 'cas_widget_pos'; ?>" value="">
-<option <?php if ($opt_val === 'middle-left') echo 'selected="true"' ?> value="middle-left">Middle-left</option>
+In order to display the live chat widget on your WordPress site, fill in your Casengo Subdomain and configure how the button will be shown.
+<br><br>
+<p><h3><strong><?php _e("Your Casengo subdomain (eg. mycompanyname)", 'menu-test' ); ?></h3></strong>
+Enter your subdomain of your Casengo account below. This field is mandatory. If it is not specified, the button will not appear on the site.<br><br>
+<table style="margin-left:20px">
+<tr>
+<td style="width:160px">Subdomain:</td>
+<td>
+http://<input type="text" name="cas_widget_domain" size="20" style="font-weight: bold" value="<?php echo get_option('cas_widget_domain') ?>">.casengo.com
+</td>
+</tr>
+</table>
+<p><h3><strong><?php _e("Appearance", 'menu-test' ); ?></strong></h3>
+Specify how the chat button appears on your site<br><br>
+<table style="margin-left:20px">
+<tr>
+<td style="width:160px">Position of button:</td>
+<td>
+<select name="<?php echo 'cas_widget_pos'; ?>" style="width:200px" value="">
+<option <?php if ($opt_val === 'middle-left') echo 'selected="true"' ?> value="middle-left">Middle-left (default)</option>
 <option <?php if ($opt_val === 'middle-right') echo 'selected="true"' ?> value="middle-right">Middle-right</option>
 <option <?php if ($opt_val === 'bottom-right') echo 'selected="true"' ?> value="bottom-right">Bottom-right</option>
 </select>
-<br /><br />
-<p><h3><strong><?php _e("Label:", 'menu-test' ); ?></strong></h3>
-<input type="text" name="cas_widget_label" value="<?php echo get_option('cas_widget_label') ?>">
-<br /><br />
-<p><h3><strong><?php _e("Color theme:", 'menu-test' ); ?></strong></h3>
-<select name="<?php echo 'cas_widget_theme'; ?>" value="">
-<option <?php if ($opt_theme === 'darkgrey') echo 'selected="true"' ?> value="darkgrey">Dark grey</option>
+</td>
+</tr>
+<tr>
+<td style="width:160px">Color scheme:</td>
+<td>
+<select name="<?php echo 'cas_widget_theme'; ?>" style="width:200px" value="">
+<option <?php if ($opt_theme === 'darkgrey') echo 'selected="true"' ?> value="darkgrey">Dark grey (default)</option>
 <option <?php if ($opt_theme === 'lightgrey') echo 'selected="true"' ?> value="lightgrey">Light grey</option>
 <option <?php if ($opt_theme === 'white') echo 'selected="true"' ?> value="white">White</option>
 <option <?php if ($opt_theme === 'orange') echo 'selected="true"' ?> value="orange">Orange</option>
@@ -119,10 +142,20 @@ function casengo_settings() {
 <option <?php if ($opt_theme === 'red') echo 'selected="true"' ?> value="red">Red</option>
 <option <?php if ($opt_theme === 'green') echo 'selected="true"' ?> value="green">Green</option>
 </select>
-</p>
+</td>
+</tr>
+<tr>
+<td style="width:160px">Button label:</td>
+<td>
+<input type="text" name="cas_widget_label" size="30" value="<?php echo get_option('cas_widget_label') ?>">
+</td>
+</tr>
+</table>
+
 <br />
 <hr />
 <p class="submit">
+
 <input type="submit" name="Submit" class="button-primary" value="<?php esc_attr_e('Save Changes') ?>" />
 </p>
 

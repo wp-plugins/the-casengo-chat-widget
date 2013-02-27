@@ -1,10 +1,10 @@
 === Casengo Live Chat ===
 Contributors: casengo 
-Tags: admin, business chat, casengo, Chat, chat button, chat facebook like, chat free, chat live, chat online, chat with visitors, clickdesk, click desk, contact, contact call, contact form, contact plugin, contact us, customer satisfaction, customer service software, customer support software, desk.com, email, email ticketing, Facebook, facebook chat, feedback, free live chat, free live chat, freshdesk, Google chat button, help desk, helpdesk software, help desk software, helpdesk, IM Chat, instant chat, Live, livechat, live chat, live chat inc, live chat page, live chat support, live contact, live help, live support, live support software, livechat, live chat, live chat software, livechatinc, livehelp, livesupport, olark, online conversion, online support, plugin, post, proactive chat, public chat, snapengage, support, support software, ticket, ticketing, twitter, twitter chat, web chat, webchat, website chat software, widget, wordpress help desk, wordpress live chat, wordpress live chat plugin, zendesk, Zopim
+Tags: admin, business chat, casengo, Chat, chat button, chat facebook like, chat free, chat live, chat online, chat with visitors, clickdesk, click desk, contact, contact call, contact form, contact plugin, contact us, customer service software, customer support software, desk.com, email, email ticketing, Facebook, facebook chat, feedback, free live chat, free live chat, freshdesk, help desk, helpdesk software, help desk software, helpdesk, IM Chat, instant chat, Live, livechat, live chat, live chat page, live chat support, live contact, live help, live support, live support software, live chat, live chat software, olark, online conversion, online support, plugin, post, proactive chat, public chat, snap engage, support, support software, ticket, ticketing, twitter, web chat, webchat, website chat software, widget, wordpress help desk, wordpress live chat, wordpress live chat plugin, zendesk, Zopim
 
 Requires at least: 3.3
 Tested up to: 3.4
-Stable tag: tags/1.8.5
+Stable tag: tags/1.8.6
 
 Casengo is Customer Support Software (Live Chat, Email, Social Media) from the Cloud, First User is Always Free!
 
@@ -155,6 +155,7 @@ To forward emails from your Outlook account to your Casengo email address, you n
 == Changelog ==
 
 1.0 Initial release
+1.8.6 Improved admin interface
 
 ==Readme Generator== 
 
