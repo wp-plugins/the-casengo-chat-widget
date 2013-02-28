@@ -149,12 +149,13 @@ To forward emails from your Outlook account to your Casengo email address, you n
 == Screenshots ==
 
 1. See the Live Chat button implemented on Yeloworld.com
-2. Overviewing the Casengo agent inbox
-3. Handling a customer inquiry
+2. Plugin admin page of Casengo the Widget
+3. Overviewing the Casengo agent inbox
+4. Handling a customer inquiry
 
 == Changelog ==
 
-1.0 Initial release
+1.0 Initial release   
 1.8.6 Improved admin interface
 
 ==Readme Generator== 
