@@ -22,7 +22,7 @@ Casengo is free to trial for 30 days; thereafter, **the first agent is always fr
 
 **It is Easy! Get started in 2 minutes, no training needed!**
 
-Step 1. Create a free Casengo account at <a href=\"http://get.casengo.com/signup/?ref=wordpress-plugin-page&utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\">get.casengo.com/signup</a><br>
+Step 1. Create a free Casengo account at <a href=\"http://get.casengo.com/signup/?ref=wordpress-plugin-page&utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\" target=\"_blank\">get.casengo.com/signup</a><br>
 Step 2. log into your WordPress Admin Site, search for plugin 'casengo' and install it.<br>
 Step 3. Go to the Casengo config section in WordPress and set your unique Casengo subdomain, color theme and position!
 
@@ -83,7 +83,7 @@ More information on product features and pricing can be found at <a href=\"http:
 
 *   **Do I need a Casengo account to add the widget to my site?**
 
-Yes, you do. You can <a href=\"http://get.casengo.com/signup/?ref=wordpress-plugin-page&utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\">sign up here</a>. Casengo offers a free trial for 30 days; thereafter, the first agent is always free. More information on product features and pricing can be found at <a href=\"http://www.casengo.com\">casengo.com</a>.
+Yes, you do. You can <a href=\"http://get.casengo.com/signup/?ref=wordpress-plugin-page&utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\" target=\"_blank\">sign up here</a>. Casengo offers a free trial for 30 days; thereafter, the first agent is always free. More information on product features and pricing can be found at <a href=\"http://www.casengo.com\">casengo.com</a>.
 
 *   **Which languages does Casengo support?**
 
