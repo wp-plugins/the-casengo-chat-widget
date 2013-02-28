@@ -146,6 +146,10 @@ To forward emails from your Outlook account to your Casengo email address, you n
 11. Under Step 2: Setup rule options, choose whether to 'Run this rule on messages already in inbox' or 'Turn on this rule' so that only new messages are forwarded to your Casengo account.
 12. Click 'Finish', then 'Apply' and finally 'Ok', and you're done!
 
+*   **How can I add Facebook to my account?**
+
+Having focused on traditional channels such as email and webchat, we don't support Facebook yet. But you may rest assured that we're working very hard to get it into the next release! Keep your eyes and ears tuned for more information.
+
 == Screenshots ==
 
 1. See the Live Chat button implemented on Yeloworld.com
