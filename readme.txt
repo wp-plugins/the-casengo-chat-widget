@@ -150,6 +150,18 @@ To forward emails from your Outlook account to your Casengo email address, you n
 
 Having focused on traditional channels such as email and webchat, we don't support Facebook yet. But you may rest assured that we're working very hard to get it into the next release! Keep your eyes and ears tuned for more information.
 
+*   **How can I customise the look and feel of my knowledge base?**
+
+The font type, colour scheme and design cannot, at this point in time, be customised. Currently, we offer the ability to change the heading of your knowledge base and add your company logo.
+
+1. In the Admin Site go to the 'General' tab
+2. Select 'Appearance' from the left-hand menu
+3. Update the title of your knowledge base using the 'title' field beneath the 'Support portal' subheading
+4. In the 'Logo' section click 'Choose file' to browse for your company logo and select it.
+5. Hit 'Upload' to insert it into the header of your knowledge base 
+
+And you're done.
+
 == Screenshots ==
 
 1. See the Live Chat button implemented on Yeloworld.com
