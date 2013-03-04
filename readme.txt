@@ -129,23 +129,6 @@ You can forward emails from your Hotmail account to your Casengo account by foll
 5. Don't forget to select the check box 'Keep a Copy of Forwarded Messages in your Windows Live Hotmail Inbox'.   
 6. Click 'Save'.
 
-*   **How can I set up email forwarding for Outlook?**
-
-To forward emails from your Outlook account to your Casengo email address, you need to create a redirect rule. See below:
-
-1. In 'Mail', in the Navigation Pane, click Rules and Alerts.
-2. If you have more than one e-mail account in your Outlook e-mail profile, in the 'Apply changes to this folder' list, click the Inbox to which you want the rule to apply.
-3. Click 'New Rule'.
-4. Under the option 'Start from a blank rule', select 'Apply rule on messages I receive 'and then click 'Next'.
-5. Under Step 1: Select condition(s), select the check box next to each condition that you want the incoming message to match. If want all emails to be forwarded to your Casengo account, regardless of any criteria, leave all the boxes unchecked. If you do not select a condition(s) click 'Next' and proceed to step 7.
-6. Under Step 2: Edit the rule description, click the underlined value that corresponds to the condition, and then select or type the necessary information.
-7. Under Step 1: Select actions, check the box 'Redirect to people or public group'.
-8. Under Step 2: Edit the rule description, click the underlined 'People or public group' and in the 'To' field at the bottom of the address book, input your bespoke Casengo email address and click 'Ok'. You should now see, in Step 2, 'Apply this rule after the message arrives, redirect it to . Click 'Next'. 
-9. Under Step 1: Select exception(s) (if necessary), check any exceptions you wish to apply. Update 'Step 2' with the additional information needed by clicking on the underlined text. Click 'Next'. 
-10. Under Step 1: Specify a name for this rule, input the name of your rule. For example, Casengo redirect.
-11. Under Step 2: Setup rule options, choose whether to 'Run this rule on messages already in inbox' or 'Turn on this rule' so that only new messages are forwarded to your Casengo account.
-12. Click 'Finish', then 'Apply' and finally 'Ok', and you're done!
-
 *   **How can I add Facebook to my account?**
 
 Having focused on traditional channels such as email and webchat, we don't support Facebook yet. But you may rest assured that we're working very hard to get it into the next release! Keep your eyes and ears tuned for more information.
@@ -164,7 +147,7 @@ And you're done.
 
 == Screenshots ==
 
-1. See the Live Chat button implemented on Yeloworld.com
+1. See the Live Chat button implemented
 2. Plugin admin page of Casengo the Widget
 3. Overviewing the Casengo agent inbox
 4. Handling a customer inquiry
