@@ -2,7 +2,7 @@
    /*
    Plugin Name: Casengo Contact Widget
    Plugin URI: http://www.casengo.com/plugins/wordpress/v2
-   Description: A plugin to add the Casengo widget to the Wordpress site
+   Description: A plugin to add the Live Chat Casengo widget to your Wordpress site
    Version: 1.8.6
    Author: Thijs van der Veen
    Author URI: http://www.casengo.com
@@ -24,7 +24,8 @@ function casengo() {
   
   // embed script	
   echo '
-  		<!--Place this code where you want VIP widget to be rendered -->
+  		<!-- Live Chat and Customer Support Software by Casengo - WordPress Live Chat and Customer Support Software Plugin v1.8.6 - http://www.casengo.com/ -->
+        <!--Place this code where you want VIP widget to be rendered -->
 		<div class="casengo-vipbtn"><!-- subdomain="' . $cas_domain . '" group="39" label="' . $cas_label . '" position="' . $cas_pos . '" theme="' . $cas_theme . '" --></div>
 		<!--Place this code after the last Casengo VIP widget -->
 		<script type="text/javascript">
@@ -34,6 +35,7 @@ function casengo() {
 				var s = document.getElementsByTagName(\'script\')[0]; s.parentNode.insertBefore(po, s);
 			})();
 		</script>
+		<!-- / Casengo Wordpress Live Chat and Customer Support Software plugin. -->
   ';
 }
 
