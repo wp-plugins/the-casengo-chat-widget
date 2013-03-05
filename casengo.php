@@ -2,7 +2,7 @@
    /*
    Plugin Name: Casengo Contact Widget
    Plugin URI: http://www.casengo.com/plugins/wordpress/v2
-   Description: A plugin to add the Live Chat Casengo widget to your Wordpress site
+   Description: A plugin to add the Casengo widget to the Wordpress site
    Version: 1.8.6
    Author: Thijs van der Veen
    Author URI: http://www.casengo.com
