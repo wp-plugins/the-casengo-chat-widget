@@ -1,6 +1,6 @@
-=== Casengo Live Chat ===
+=== Live Chat by Casengo ===
 Contributors: casengo 
-Tags: admin, business chat, casengo, Chat, chat button, chat facebook like, chat free, chat live, chat online, chat with visitors, clickdesk, click desk, contact, contact call, contact form, contact plugin, contact us, customer service software, customer support software, desk.com, email, email ticketing, Facebook, facebook chat, feedback, free live chat, free live chat, freshdesk, help desk, helpdesk software, help desk software, helpdesk, IM Chat, instant chat, Live, livechat, live chat, live chat page, live chat support, live contact, live help, live support, live support software, live chat, live chat software, olark, online conversion, online support, plugin, post, proactive chat, public chat, snap engage, support, support software, ticket, ticketing, twitter, web chat, webchat, website chat software, widget, wordpress help desk, wordpress live chat, wordpress live chat plugin, zendesk, Zopim
+Tags: admin, ajax, buddypress, business chat, casengo, category, Chat, chat button, chat facebook like, chat free, chat live, chat online, chat with visitors, clickdesk, click desk, comment, comments, contact, contact call, contact form, contact plugin, contact us, content, customer service software, customer support software, desk.com, email, email ticketing, facebook, facebook chat, feed, feedback, flash, free live chat, free live chat, freshdesk, gallery, google, help desk, helpdesk software, help desk software, helpdesk, IM Chat, image, images, instant chat, javascript, jquery, link, links, Live, livechat, live chat, live chat page, live chat support, live contact, live help, live support, live support software, live chat, live chat software, media, olark, online conversion, online support, page, pages, plugin, post, proactive chat, public chat, seo, spam, snap engage, stats, support, support software, ticket, ticketing, twitter, video, web chat, webchat, website chat software, widget, widgets, wordpress, wordpress help desk, wordpress live chat, wordpress live chat plugin, youtube, zendesk, Zopim
 
 Requires at least: 3.3
 Tested up to: 3.4
@@ -10,7 +10,7 @@ Casengo is Customer Support Software (Live Chat, Email, Social Media) from the C
 
 == Description ==
 
-**This plugin installs the Casengo Live Chat widget on your blog or website, so you can handle enquiries via email and live chat directly from your website. Casengo helps you to respond to customers faster than ever and improve their satisfaction with a groovy mixture of real-time chat and email.**
+**Add live chat to your blog or website quick and easy with Casengo, so you can handle enquiries via email and live chat directly from your website. Casengo helps you to respond to customers faster than ever and improve their satisfaction with a groovy mixture of real-time chat and email.**
 
 Check out the Casengo Video:
 
