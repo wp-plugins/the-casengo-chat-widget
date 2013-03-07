@@ -145,6 +145,25 @@ The font type, colour scheme and design cannot, at this point in time, be custom
 
 And you're done.
 
+*   **Casengo Packages**
+
+Casengo has two packages to suit your needs; 'Free' and 'Premium'. Here's what you get:
+
+Free Account
+- 1 agent license
+- The Casengo universal mailbox
+- Chat application
+- Knowledge base (also called a support portal)
+- Reporting
+- Unlimited cases
+
+Premium Account
+Pay €39 / month for each additional agent license you need and get everything included in the Free account PLUS:
+- Additional mailboxes
+- Groups
+- Customized branding
+- Advanced reporting (coming soon!)
+
 == Screenshots ==
 
 1. See the Live Chat button implemented
