@@ -35,6 +35,7 @@ function casengo() {
 				var s = document.getElementsByTagName(\'script\')[0]; s.parentNode.insertBefore(po, s);
 			})();
 		</script>
+		<a style="display:none" id="CasengoCopyright" href="http://www.casengo.com">Casengo customer support software and live chat</a>
 		<!-- / Casengo Wordpress Live Chat and Customer Support Software plugin. -->
   ';
 }
