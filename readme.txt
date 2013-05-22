@@ -4,7 +4,7 @@ Tags: add-on, casengo, casengo chat, casengo live chat, category, chat, chat but
 
 Requires at least: 3.2
 Tested up to: 3.5.1
-Stable tag: tags/1.8.7
+Stable tag: tags/1.9.0
 
 Casengo is Customer Support Software (Live Chat, Email, Social Media) from the Cloud, First User is Always Free!
 
@@ -177,6 +177,7 @@ Pay €39 / month for each additional agent license you need and get everything in
 
 1.0 Initial release   
 1.8.6 Improved admin interface
+1.9.0 Added compatibility for older WordPress versions
 
 ==Readme Generator== 
 
