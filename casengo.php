@@ -47,7 +47,7 @@ add_action( 'wp_footer', 'casengo' );
 add_action( 'admin_menu', 'my_plugin_menu' );
 
 function my_plugin_menu() {
-	add_options_page( 'Casengo Options', 'Casengo', 'manage_options', 'casengoWidgetPlugin', 'casengo_settings' );
+	add_options_page( 'Casengo Chat Widget Options', 'Casengo Chat Widget', 'manage_options', 'casengoWidgetPlugin', 'casengo_settings' );
 }
 
 function casengo_settings() {
