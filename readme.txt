@@ -1,6 +1,6 @@
 === Live Chat - Casengo ===
 Contributors: casengo 
-Tags: add-on, casengo, casengo chat, category, chat, chat button, chat module, chat online, chat plugin, chat script, chat software, chat support, chat tool, chat widget, chat wordpress, live chat facebook, chat live, chat online, chat plugin, comments, contact, contactform, contact button, contact form, contact plugin, contact chat, content, customer chat, customer service software, customer tool, customer support, customer support software, desk, email, embed chat, facebook, feedback, freshdesk, help desk, helpdesk, html, html chat, hybrid messaging, javascript, link, links, livechat, live chat, live chat widget, live help, live support, live support software, live chat button, live chat software, media, module, modules, olark, online chat, online customer chat, online conversion, online live chat, online support, page, pages, plugin, plugin chat, plugin, plugins, post, snapengage, social chat, support, supportchat, social media, support category, support chat, support software, template, visitor chat, web, webchat, website, website chat, web chat, widget, widgets, wordpress, wordpress live chat, wordpress plugin, wordpress
+Tags: add-on, casengo, casengo chat, category, chat, chat button, chat module, chat online, chat plugin, chat script, chat software, chat support, chat tool, chat widget, chat wordpress, live chat facebook, chat live, chat online, chat plugin, comments, contact, contactform, contact button, contact form, contact plugin, contact chat, content, customer chat, customer service software, customer tool, customer support, customer support software, desk, email, embed chat, facebook, feedback, freshdesk, help desk, helpdesk, html, html chat, hybrid messaging, javascript, link, links, livechat, live chat, live chat widget, live help, live support, live support software, live chat button, live chat software, media, module, modules, olark, online chat, online customer chat, online conversion, online live chat, online support, page, pages, plugin, plugin chat, plugin, plugins, post, snapengage, social chat, support, supportchat, social media, support category, support chat, support software, template, visitor chat, web, webchat, website, website chat, web chat, widget, widgets, wordpress, wordpress live chat, wordpress plugin, wordpress chat
 Requires at least: 3.3
 Tested up to: 3.5
 Stable tag: tags/1.9.0
@@ -86,9 +86,16 @@ More information on product features and pricing can be found at <a href=\"http:
 
 Yes, you do. You can <a href=\"http://get.casengo.com/signup/?ref=wordpress-plugin-page&utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\" target=\"_blank\">sign up here</a>. Casengo offers a free trial for 30 days; thereafter, the first agent is always free. More information on product features and pricing can be found at <a href=\"http://www.casengo.com\">casengo.com</a>.
 
+*   **The chat widget does not appear on my site. What could be the problem?**
+
+There could be a conflict with another WordPress plugin. There is a known problem with certain optimization plugins such as WP Super Cache and Jetpack. Try disabling the option to remove HTML comments or caching in general. In most cases this should display the chat button on the website. If the problem persists, contact us <a href=\"http://support.casengo.com/vip\">via chat</a>
+
 *   **Which languages does Casengo support?**
 
 Casengo currently support English, German, Dutch and Russian. If you want to help out Casengo in adding new languages drop us a note at support@casengo.com
+
+*   **Can i use the Casengo FAQ plugin and the chat plugin at the same time?**
+Yes, you can. Just download and install the <a href=\"http://wordpress.org/plugins/casengo-faq-web-self-service-plugin/\">Casengo FAQ plugin</a>, and the button will appear on the FAQ pages as well! Don't forget to set your unique Casengo username (subdomain) from the admin settings page.
 
 *   **How do I integrate Casengo with "Contact Form 7"?**
 
