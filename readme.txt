@@ -141,17 +141,9 @@ You can forward emails from your Hotmail account to your Casengo account by foll
 
 Having focused on traditional channels such as email and webchat, we don't support Facebook yet. But you may rest assured that we're working very hard to get it into the next release! Keep your eyes and ears tuned for more information.
 
-*   **How can I customise the look and feel of my knowledge base?**
+*   **How can I customise the look and feel of my knowledge base to fit my WordPress theme ?**
 
-The font type, colour scheme and design cannot, at this point in time, be customised. Currently, we offer the ability to change the heading of your knowledge base and add your company logo.
-
-1. In the Admin Site go to the 'General' tab
-2. Select 'Appearance' from the left-hand menu
-3. Update the title of your knowledge base using the 'title' field beneath the 'Support portal' subheading
-4. In the 'Logo' section click 'Choose file' to browse for your company logo and select it.
-5. Hit 'Upload' to insert it into the header of your knowledge base 
-
-And you're done.
+Download the Casengo FAQ plugin for WordPress to integrate the knowledge base into your site. <a href=\"http://wordpress.org/plugins/casengo-faq-web-self-service-plugin\">Click here</a> to go to the Casengo FAQ plugin page for more information.
 
 *   **Casengo Packages**
 
@@ -159,11 +151,10 @@ Casengo has two packages to suit your needs; 'Free' and 'Premium'. Here's what y
 
 Free Account
 - 1 agent license
-- The Casengo universal mailbox
+- The Casengo universal inbox
 - Chat application
-- Knowledge base (also called a support portal)
-- Reporting
-- Unlimited cases
+- Knowledge Base / FAQ site
+- Basic Reporting
 
 Premium Account
 Pay €39 / month for each additional agent license you need and get everything included in the Free account PLUS:
