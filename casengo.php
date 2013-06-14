@@ -35,7 +35,7 @@ function casengo() {
 				var s = document.getElementsByTagName(\'script\')[0]; s.parentNode.insertBefore(po, s);
 			})();
 		</script>
-		<a style="display:none" id="CasengoCopyright" href="http://www.casengo.com">Casengo customer support software and live chat</a>
+		<a style="display:none" id="CasengoCopyright" href="http://www.casengo.com">Casengo is customer support software for webshops and ecommerce. Casengo enables live chat on website and provide excellent customer service and help desk software. Casengo also supports email and livehelp. More information at www.casengo.com</a>
 		<!-- / Casengo Wordpress Live Chat and Customer Support Software plugin. -->
   ';
 }
