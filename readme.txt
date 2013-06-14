@@ -1,6 +1,6 @@
 === Live Chat - Casengo ===
 Contributors: casengo 
-Tags: add-on, casengo, casengo chat, category, chat, chat button, chat module, chat online, chat plugin, chat script, chat software, chat support, chat tool, chat widget, chat wordpress, live chat facebook, chat live, chat online, chat plugin, chatlive, chatmodule, clickdesk, comments, contact, contactform, contact button, contact form, contact plugin, contact chat, content, customer chat, customer service software, customer tool, customer support, customer support software, desk, email, embed chat, facebook, feedback, freshdesk, help desk, helpdesk, html, html chat, hybrid messaging, javascript, link, links, livechat, live chat, live chat widget, live help, live support, live support software, live chat button, live chat software, media, module, modules, olark, online chat, online customer chat, online conversion, online live chat, online support, page, pages, plugin, plugin chat, plugin, plugins, post, snapengage, social chat, support, supportchat, social media, support category, support chat, support software, template, visitor chat, web, webchat, website, website chat, web chat, widget, widgets, wordpress, wordpress live chat, wordpress plugin
+Tags: add-on, casengo, casengo chat, category, chat, chat button, chat module, chat online, chat plugin, chat script, chat software, chat support, chat tool, chat widget, chat wordpress, live chat facebook, chat live, chat online, chat plugin, chatlive, chatmodule, clickdesk, comments, contact, contactform, contact button, contact form, contact plugin, contact chat, content, customer chat, customer service software, customer tool, customer support, customer support software, desk, email, embed chat, facebook, feedback, freshdesk, help desk, helpdesk, html, html chat, hybrid messaging, javascript, link, links, livechat, live chat, live chat widget, live help, live support, live support software, live chat button, live chat software, media, module, modules, olark, online chat, online customer chat, online conversion, online live chat, online support, page, pages, plugin, plugin chat, plugin, plugins, post, snapengage, social chat, support, supportchat, social media, support category, support chat, support software, template, visitor chat, web, webchat, website, website chat, webchat, widget, widgets, wordpress, wordpress live chat, wordpress plugin
 Requires at least: 3.3
 Tested up to: 3.5
 Stable tag: tags/1.9.0
@@ -9,7 +9,7 @@ Casengo is Customer Support Software (Live Chat, Email, Social Media) from the C
 
 == Description ==
 
-**May 13, 2013: Casengo reached 10,000+ plugin downloads in only three months! Thank you for your support!**
+**June 14, 2013: Casengo reached 15,000+ plugin downloads in only 4 months. Thank you for your support!**
 
 **Add live chat to your blog or website quick and easy with Casengo, so you can handle enquiries via email and live chat directly from your website. Casengo helps you to respond to customers faster than ever and improve their satisfaction with a groovy mixture of real-time chat and email.**
 
