@@ -29,6 +29,8 @@ Step 3. Go to the Casengo config section in WordPress and set your unique Caseng
 
 ...et voila, the live chat button magically appears on your website!
 
+If you still have a question, <a href="http://www.casengo.com/support">click here</a> to chat with us.
+
 **Casengo Testimonials**
 
 "We've opted for Casengo from day one, as it is a very user-friendly Cloud customer service app with an attractive pricing model," says Philippe Joly, founder of Yelo , one of Casengo's happy customers. "Casengo allows us to centralize all customer enquiries - whether through email, chat or social media - in one single inbox. This is critical for providing excellent service to our users. The Casengo app is plug and play: setting up the account took us hardly two minutes, and installation of the Wordpress Live Chat widget was just as easy."
