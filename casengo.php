@@ -3,7 +3,7 @@
    Plugin Name: Casengo Contact Widget
    Plugin URI: http://www.casengo.com/plugins/wordpress/v2
    Description: A plugin to add the Casengo widget to the Wordpress site
-   Version: 1.9.0
+   Version: 1.9.1
    Author: Thijs van der Veen
    Author URI: http://www.casengo.com
    License: GPL2
@@ -44,9 +44,74 @@ add_action( 'wp_footer', 'casengo' );
 
 // *** ADMIN
 
-add_action( 'admin_menu', 'my_plugin_menu' );
+function casengo_activate_plugin() {
+    // work-around to redirect to admin plugin page after plugin activiation
+    add_option('casengo_do_activation_redirect', true);
+}
+
+function casengo_redirect() {
+    // redirect to plugin admin page after plugin activation
+    if (get_option('casengo_do_activation_redirect', false)) {
+        delete_option('casengo_do_activation_redirect');
+	 wp_redirect(admin_url('admin.php?page=the-casengo-chat-widget/casengo.php'));
+    }
+}
+
+//add_action( 'admin_menu', 'my_plugin_menu' );
+add_action( 'admin_menu', 'casengo_admin_menu' );
+
+register_activation_hook( __FILE__, 'casengo_activate_plugin' );
+add_action('admin_init', 'casengo_redirect');
+
+/*
+function casengo_admin_menu_exists($menu_name) {
+	global $menu;
+	$menuExist = false;
+	foreach($menu as $item) {
+		if(strtolower($item[0]) == strtolower($menu_name)) {
+			$menuExist = true;
+		}
+	}
+	return $menuExist;
+
+}
+*/
+
+function casengo_admin_menu_exists( $handle, $sub = true){
+  global $menu, $submenu;
+  $check_menu = $sub ? $submenu : $menu;
+  if( empty( $check_menu ) )
+    return false;
+  foreach( $check_menu as $k => $item ){
+    if( $sub ){
+      foreach( $item as $sm ){
+        if($handle == $sm[2])
+          return true;
+      }
+    } else {
+      if( $handle == $item[2] )
+        return true;
+    }
+  }
+  return false;
+}
+
+function casengo_admin_menu() {
+	$file = dirname( __FILE__ ) . '/casengo.php';
+	$icon = "http://www.casengo.com/assets/favicon.png";
+	//if (! casengo_admin_menu_exists(dirname( __FILE__ ) . '/casengo.php')) {
+		add_menu_page('Casengo ( Chat )', 'Casengo ( Chat )', 10, dirname( __FILE__ ) . '/casengo.php', '', $icon);
+	//}
+	add_submenu_page(dirname( __FILE__ ) . '/casengo.php', 'Settings', 'Settings', 'manage_options', dirname( __FILE__ ) . '/casengo.php', 'casengo_settings');	
+
+	//if (! casengo_admin_menu_exists('casengo-friends')) {
+		add_submenu_page(dirname( __FILE__ ) . '/casengo.php', 'Our Friends', 'Our Friends', 'manage_options', dirname( __FILE__ ) . '/friends.php');
+	//}
+
+}
 
 function my_plugin_menu() {
+	// deprecated code
 	add_options_page( 'Casengo Chat Widget Options', 'Casengo Chat Widget', 'manage_options', 'casengoWidgetPlugin', 'casengo_settings' );
 }
 
@@ -93,7 +158,7 @@ function casengo_settings() {
     echo '<div class="wrap">';
 
     // header
-    echo "<h2>" . __( 'Casengo Widget options', 'menu-general' ) . "</h2>";
+    echo "<h2>" . __( 'Casengo Chat Widget options', 'menu-general' ) . "</h2>";
 
     // settings form
   
