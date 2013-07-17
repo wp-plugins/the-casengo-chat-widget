@@ -175,15 +175,9 @@ Pay €39 / month for each additional agent license you need and get everything in
 == Changelog ==
 
 1.0 Initial release
-
-1.8.6
-* Improved admin interface
-
-1.9.0
-* minor bugs fixed
-
-1.9.1 
-* After plugin activation, the browser will be redirected to the settings page automatically
+1.8.6 Improved admin interface
+1.9.0 Minor bugs fixed
+1.9.1 After plugin activation, the browser will be redirected to the settings page automatically. The settings page has moved to its own Casengo menu.
 
 ==Readme Generator== 
 
