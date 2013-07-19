@@ -19,7 +19,7 @@ Check out the Casengo Video:
 
 [vimeo http://vimeo.com/55199455]
 
-To configure the live chat plugin, you need a Casengo account. Have an account already? Way to go! If not, <a href=\"http://get.casengo.com/signup/?ref=wordpress-plugin-page&utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\" target=\"_blank\" title=\"Sign up for a free Casengo account\">sign up here</a>. You’ll be ready to go in two minutes tops.
+To configure the live chat plugin, you need a Casengo account. Have an account already? Way to go! If not, <a href=\"http://get.casengo.com/signup/?ref=wordpress-plugin-page&utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\" target=\"_blank\" title=\"Sign up for a free Casengo account\">sign up here</a>. You'll be ready to go in two minutes tops.
 
 Casengo is free to trial for 30 days. Afterwards, **the first agent is always free (and will be so forever and ever)!**
 
