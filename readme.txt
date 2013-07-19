@@ -23,7 +23,7 @@ To configure the live chat plugin, you need a Casengo account. Have an account a
 
 Casengo is free to trial for 30 days. Afterwards, **the first agent is always free (and will be so forever and ever)!**
 
-**It’s super simple. Get started in 2 minutes tops, no training needed!**
+**It's really easy. Get started in 2 minutes tops, no training needed!**
 
 Step 1. Create a free Casengo account at <a href=\"http://get.casengo.com/signup/?ref=wordpress-plugin-page&utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\" target=\"_blank\">get.casengo.com/signup</a><br>
 Step 2. log into your WordPress Admin Site, search for plugin 'casengo' and install it.<br>
