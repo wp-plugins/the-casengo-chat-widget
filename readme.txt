@@ -27,11 +27,11 @@ Step 1. Create a free Casengo account at <a href=\"http://get.casengo.com/signup
 Step 2. log into your WordPress Admin Site, search for plugin 'casengo' and install it.<br>
 Step 3. Go to the Casengo config section in WordPress and set your unique Casengo subdomain, color theme and position!
 
-...et voila, on your website you’ll discover your very own live, plug & play chat button, ready to be clicked on by your happy customers!
+...et voila, on your website you'll discover your very own live, plug & play chat button, ready to be clicked on by your happy customers!
 
-Questions or suggestions? <a href="http://www.casengo.com/support">Click here</a> to chat with us. We’d love to help you out.
+Questions or suggestions? <a href="http://www.casengo.com/support">Click here</a> to chat with us. We'd love to help you out.
 
-**Casengo’s happy customers**
+**Casengo's happy customers**
 
 Lots of companies, small and large, have been using Casengo for a while now. Check out these testimonials to find out what they think about our customer support software.
 
