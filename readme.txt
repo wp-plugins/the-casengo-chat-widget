@@ -9,7 +9,7 @@ Casengo is Customer Support Software (Live Chat, Email, Social Media) from the C
 
 == Description ==
 
-**July 19, 2013: We’re happy to announce that Casengo reached 20,000+ plugin downloads in only 5?? months. We frequently receive positive feedback from people using our super simple live chat plugin for WordPress. Thanks so much for your support! Do get in touch with tips or questions, as we’re constantly working on making Casengo the best, fastest and smartest customer support tool ever… More happy customers!**
+**July 19, 2013: We’re happy to announce that Casengo reached 20,000+ plugin downloads in only 5 months. We frequently receive positive feedback from people using our super simple live chat plugin for WordPress. Thanks so much for your support! Do get in touch with tips or questions, as we’re constantly working on making Casengo the best, fastest and smartest customer support tool ever… More happy customers!**
 
 **The Casengo plugin for WordPress allows you to add live chat to your blog or website quickly and easily. With Casengo, you can handle enquiries via email and live chat directly from your website. Casengo helps you to respond to customer queries faster than ever, and to improve their satisfaction with a delicious combination of real-time chat and email.**
 
