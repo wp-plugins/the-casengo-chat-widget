@@ -11,7 +11,7 @@ Casengo is Customer Support Software (Live Chat, Email, Social Media) from the C
 
 **July 19, 2013: We're happy to announce that Casengo reached 20,000+ plugin downloads in only 5 months. We frequently receive positive feedback from people using our super simple live chat plugin for WordPress. Thanks so much for your support!**
 
-Do get in touch with tips or questions, as we're constantly working on making Casengo the best, fastest and smartest customer support tool ever. More happy customers!
+**Do get in touch with tips or questions, as we're constantly working on making Casengo the best, fastest and smartest customer support tool ever. More happy customers!**
 
 The Casengo plugin for WordPress allows you to add live chat to your blog or website quickly and easily. With Casengo, you can handle enquiries via email and live chat directly from your website. Casengo helps you to respond to customer queries faster than ever, and to improve their satisfaction with a delicious combination of real-time chat and email.
 
@@ -37,7 +37,7 @@ Questions or suggestions? <a href="http://www.casengo.com/support">Click here</a
 
 Lots of companies, small and large, have been using Casengo for a while now. Check out these testimonials to find out what they think about our customer support software.
 
-"We opted for Casengo from day one, as it is a very user-friendly Cloud customer service app with an attractive pricing model. Casengo allows us to centralize all customer enquiries - whether through email, chat or social media - in one single inbox. This is critical for providing excellent service to our users. The Casengo app is plug and play: setting up the account took us hardly two minutes, and installation of the Wordpress Live Chat widget was just as easy."
+"We opted for Casengo from day one, as it is a very user-friendly Cloud customer service app with an attractive pricing model. Casengo allows us to centralize all customer enquiries - whether through email, chat or social media - in one single inbox. This is critical for providing excellent service to our users. The Casengo app is plug and play: setting up the account took us hardly two minutes, and installation of the Wordpress Live Chat widget was just as easy." - Philippe Joly, Yelo
 
 "We decided to use Casengo mainly because we'd be able to get started right away. You hardly need any technical knowledge to get this app running." - Dorians Hofs, Parfumswinkel.nl
 
