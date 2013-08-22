@@ -24,8 +24,8 @@ function casengo() {
   
   // embed script	
   echo '
-  		<!-- Live Chat and Customer Support Software by Casengo - WordPress Live Chat and Customer Support Software Plugin v1.9.0 - http://www.casengo.com/ -->
-        <!--Place this code where you want VIP widget to be rendered -->
+  		<!-- Live Chat and Customer Support Software by Casengo - WordPress Live Chat and Customer Support Software v1.9.1 - http://www.casengo.com/ -->
+        <!--Place this code where you want the button to be rendered -->
 		<div class="casengo-vipbtn"><!-- subdomain="' . $cas_domain . '" group="39" label="' . $cas_label . '" position="' . $cas_pos . '" theme="' . $cas_theme . '" --></div>
 		<!--Place this code after the last Casengo VIP widget -->
 		<script type="text/javascript">
@@ -35,8 +35,8 @@ function casengo() {
 				var s = document.getElementsByTagName(\'script\')[0]; s.parentNode.insertBefore(po, s);
 			})();
 		</script>
-		<a style="display:none" id="CasengoCopyright" href="http://www.casengo.com">Casengo is customer support software for webshops and ecommerce. Casengo enables live chat on website and provide excellent customer service and help desk software. Casengo also supports email and livehelp. More information at www.casengo.com</a>
-		<!-- / Casengo Wordpress Live Chat and Customer Support Software plugin. -->
+		<a style="display:none" id="CasengoCopyright" href="http://www.casengo.com">Casengo is customer support software for ecommerce and webshops. Casengo enables live chat on website and provide excellent customer service. Casengo help desk software also supports email and livehelp. More information at www.casengo.com</a>
+		<!-- / Casengo Wordpress Live Chat and Customer Support Software -->
   ';
 }
 
