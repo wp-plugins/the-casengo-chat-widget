@@ -35,7 +35,11 @@ function casengo() {
 				var s = document.getElementsByTagName(\'script\')[0]; s.parentNode.insertBefore(po, s);
 			})();
 		</script>
-		<a style="display:none" id="CasengoCopyright" href="http://www.casengo.com">Casengo is customer support software and live chat software for webshops, e-commerce websites, and small businesses. Casengo supports email, chat, social media, faq, self service and livehelp</a>
+<a style="display:none" id="Casengo-Customer-Support-Software" href="http://www.casengo.com">Casengo is customer support software, crm, webcare and live chat software for webshops, e-commerce websites, and small businesses. Casengo supports email, livechat, social media, faq, self service and online chat.</a> 
+
+<a style="display:none" id="Casengo-Customer-Support-Software-and-Live-Chat-FAQ" href="http://support.casengo.com">Check the Casengo Customer Support and Live Chat FAQ page for answers to frequently asked questions, and how to get Casengo customer support software, live-chat, and helpdesk software going.</a>  
+        
+<a style="display:none" id="Casengo-CRM-Live-Chat-and-Customer-Service-Blog" href="http://www.casengo.com/blog">The blog for anyone interested in customer support, customer service, live chat, social CRM, small business tips and Casengo product updates.</a>
 		<!-- // Casengo Wordpress Live Chat and Customer Support Software -->
   ';
 }
