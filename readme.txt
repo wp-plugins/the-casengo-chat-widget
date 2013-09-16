@@ -4,13 +4,13 @@ Tags: addon, agent chat, banckle, casengo, casengo chat, casengo live chat, chat
 
 Requires at least: 3.3
 Tested up to: 3.6
-Stable tag: tags/1.9.1
+Stable tag: tags/1.9.2
 
 Casengo is Customer Support Software (Live Chat, Email, Social Media) from the Cloud, First User is Always Free!
 
 == Description ==
 
-**July 19, 2013: We're happy to announce that Casengo reached 20,000+ plugin downloads in only 5 months. We frequently receive positive feedback from people using our super simple live chat plugin for WordPress. Thanks so much for your support!**
+**September 12, 2013: We're happy to announce that Casengo reached 25,000+ plugin downloads in only 6 months. We frequently receive positive feedback from people using our super simple live chat plugin for WordPress. Thanks so much for your support!**
 
 **Do get in touch with tips or questions, as we're constantly working on making Casengo the best, fastest and smartest customer support tool ever. More happy customers!**
 
