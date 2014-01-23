@@ -1,6 +1,6 @@
 === Live Chat - Casengo ===
 Contributors: casengo 
-Tags: addon, agent chat, casengo, casengo chat, casengo live chat, chat, chat button, chat link, chat module, chat online, chat plugin, chat script, chat software, chat support, chat tool, chattool, chat widget, chat wordpress, live chat facebook, chat live, chat module, chat online, chat plugin, chat module, chatwidget, clickdesk, collaboration, collaborative, comment, comments, contact, contact us, contact button, contact form, contact chat, customer chat, customer service software, customer tool, customer support, customer support software, desk, email, extension, freshdesk, help, help desk, helpdesk, html, html script, html widget, javascript, java script, live chat, live chat widget, live help, live support, live support software, live chat button, live chat software, liveperson, media, messaging, module, modules, olark, online chat, online customer chat, online conversion, online live chat, online support, plugin chat, plugin, plug in, plug-in, post, snap engage, support, support tool, support chat, support software, support desk, web, webchat, website, widget, zendesk, zopim live chat support
+Tags: addon, agent chat, casengo, casengo chat, casengo live chat, chat, chat button, chat link, chat module, chat online, chat plugin, chat script, chat software, chat support, chat tool, chattool, chat widget, chat wordpress, live chat facebook, chat live, chat module, chat online, chat plugin, chat module, chatwidget, clickdesk, collaboration, collaborative, comment, comments, contact, contact us, contact button, contact form, contact chat, customer chat, customer service software, customer tool, customer support, customer support software, desk, email, extension, freshdesk, help, help desk, helpdesk, html, html script, html widget, javascript, java script, live chat, live chat widget, live help, live support, live support software, live chat button, live chat software, liveperson, media, messaging, module, modules, olark, online chat, online customer chat, online conversion, online live chat, online support, plugin chat, plugin, plug in, plug-in, post, snap engage, support, support tool, support chat, support software, support desk, web, webchat, website, widget, zendesk, zopim
 
 Requires at least: 3.3
 Tested up to: 3.7
@@ -10,11 +10,7 @@ Casengo is Customer Support Software (Live Chat, Email, Social Media) from the C
 
 == Description ==
 
-**September 12, 2013: We're happy to announce that Casengo reached 25,000+ plugin downloads in only 6 months. We frequently receive positive feedback from people using our super simple live chat plugin for WordPress. Thanks so much for your support!**
-
-**Do get in touch with tips or questions, as we're constantly working on making Casengo the best, fastest and smartest customer support tool ever. More happy customers!**
-
-The Casengo plugin for WordPress allows you to add live chat to your blog or website quickly and easily. With Casengo, you can handle enquiries via email and live chat directly from your website. Casengo helps you to respond to customer queries faster than ever, and to improve their satisfaction with a delicious combination of real-time chat and email.
+**Welcome at the most popular Wordpress Live Chat plugin. The Casengo Live Chat plugin allows you to add live chat to your blog or website quickly and easily. With Casengo, you can handle enquiries via email, social media and live chat directly from your website. Casengo Live Chat helps you to respond to customer queries faster than ever, and to improve their satisfaction with a delicious combination of live chat and email.**
 
 Check out the Casengo Video:
 
@@ -22,31 +18,33 @@ Check out the Casengo Video:
 
 To configure the live chat plugin, you need a Casengo account. Have an account already? Way to go! If not, <a href=\"http://get.casengo.com/signup/?ref=wordpress-plugin-page&utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\" target=\"_blank\" title=\"Sign up for a free Casengo account\">sign up here</a>. You'll be ready to go in two minutes tops.
 
-Casengo is free to trial for 30 days. Afterwards, **the first agent is always free (and will be so forever and ever)!**
+Casengo Live Chat is free to trial for 30 days. Afterwards, **the first agent is always free (and will be so forever and ever)!**
 
 **It's really easy. Get started in 2 minutes tops, no training needed!**
 
 Step 1. Create a free Casengo account at <a href=\"http://get.casengo.com/signup/?ref=wordpress-plugin-page&utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\" target=\"_blank\">get.casengo.com/signup</a><br>
-Step 2. log into your WordPress Admin Site, search for plugin 'casengo' and install it.<br>
-Step 3. Go to the Casengo config section in WordPress and set your unique Casengo subdomain, color theme and position!
+Step 2. log into your WordPress Admin Site, search for plugin 'Casengo Live Chat' and install it.<br>
+Step 3. Go to the Casengo Live Chat config section in WordPress and set your unique Casengo subdomain, color theme and position!
 
-...et voila, on your website you'll discover your very own live, plug & play chat button, ready to be clicked on by your happy customers!
+...et voila, on your website you'll discover your very own live chat button, ready to be clicked on by your happy customers!
+
+Do get in touch with tips or questions, as we're constantly working on making Casengo Live Chat the best, fastest and smartest customer support tool ever. More happy customers!
 
 Questions or suggestions? <a href="http://www.casengo.com/support">Click here</a> to chat with us. We'd love to help you out.
 
 **Casengo's happy customers**
 
-Lots of companies, small and large, have been using Casengo for a while now. Check out these testimonials to find out what they think about our customer support software.
+Lots of companies, small and large, have been using Casengo Live Chat for a while now. Check out these testimonials to find out what they think about our customer support software.
 
-"We opted for Casengo from day one, as it is a very user-friendly Cloud customer service app with an attractive pricing model. Casengo allows us to centralize all customer enquiries - whether through email, chat or social media - in one single inbox. This is critical for providing excellent service to our users. The Casengo app is plug and play: setting up the account took us hardly two minutes, and installation of the Wordpress Live Chat widget was just as easy." - Philippe Joly, Yelo
+"We opted for Casengo Live Chat from day one, as it is a very user-friendly Cloud customer service app with an attractive pricing model. Casengo allows us to centralize all customer enquiries - whether through email, live chat or social media - in one single inbox. This is critical for providing excellent service to our users. The Casengo live chat app is plug and play: setting up the account took us hardly two minutes, and installation of the Wordpress Live Chat widget was just as easy." - Philippe Joly, Yelo
 
-"We decided to use Casengo mainly because we'd be able to get started right away. You hardly need any technical knowledge to get this app running." - Dorians Hofs, Parfumswinkel.nl
+"We decided to use Casengo Live Chat mainly because we'd be able to get started right away. You hardly need any technical knowledge to get this live chat and customer support app running." - Dorians Hofs, Parfumswinkel.nl
 
-"I downloaded the Casengo Live Chat plugin for Wordpress. The contact button appeared in one go, and I was able to change both its text and colour to match our corporate identity. Brilliant!" - Davy van de Haar, BeLikeUs
+"I downloaded the Casengo Live Chat plugin for Wordpress. The live chat button appeared in one go, and I was able to change both its text and colour to match our corporate identity. Brilliant!" - Davy van de Haar, BeLikeUs
 
-"Since using Casengo, we can respond to our customers 3 times as fast. It surprised us how easily customers switch between email and live chat. Casengo's just so simple." - Dick Franken, Takeaway.com
+"Since using Casengo Live Chat, we can respond to our customers 3 times as fast. It surprised us how easily customers switch between email and live chat. Casengo's just so simple." - Dick Franken, Takeaway.com
 
-Casengo's Cloud-based, affordable social customer support software brings the human touch back into customer service. Regardless of channel type, it simplifies real-time conversation by presenting a unique Hybrid Messaging Timeline. Whether a company consists of just one person or a large team, it's always time to Casengo.
+Casengo's Cloud-based, affordable social customer support software brings the human touch back into customer service and live chat. Regardless of channel type, it simplifies real-time conversation by presenting a unique Live Chat Hybrid Messaging Timeline. Whether a company consists of just one person or a large team, it's always time to Casengo.
 
 Go to <a href=\"http://www.casengo.com\" target=\"_blank\" title=\"Casengo\">casengo.com</a> for more information on product features and pricing.
 
