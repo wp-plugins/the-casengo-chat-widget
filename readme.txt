@@ -6,7 +6,7 @@ Requires at least: 3.3
 Tested up to: 3.7
 Stable tag: tags/1.9.2
 
-Casengo is Customer Support Software (Live Chat, Email, Social Media) from the Cloud, First User is Always Free!
+Live Chat from Casengo is Customer Support Software from the Cloud, First User is Always Free!
 
 == Description ==
 
