@@ -3,7 +3,7 @@
    Plugin Name: Casengo Contact Widget
    Plugin URI: http://www.casengo.com/plugins/wordpress/v2
    Description: A plugin to add the Casengo widget to the Wordpress site
-   Version: 1.9.2
+   Version: 1.9.4
    Author: Thijs van der Veen
    Author URI: http://www.casengo.com
    License: GPL2
@@ -23,6 +23,7 @@ function casengo() {
   if(!isset($cas_theme)) $cas_theme = 'darkgrey';
   
   // embed script	
+  /*
   echo '
   		<!-- Live Chat and Customer Support Software by Casengo - WordPress Live Chat and Customer Support Software v1.9.1 - http://www.casengo.com/ -->
         <!--Place this code where you want the button to be rendered -->
@@ -42,6 +43,28 @@ function casengo() {
 <a style="display:none" id="Casengo-CRM-Live-Chat-and-Customer-Service-Blog" href="http://www.casengo.com/blog">The blog for anyone interested in customer support, customer service, live chat, social CRM, small business tips and Casengo product updates.</a>
 		<!-- // Casengo Wordpress Live Chat and Customer Support Software -->
   ';
+  */
+
+  echo '
+  		<!-- Live Chat and Customer Support Software by Casengo - WordPress Live Chat and Customer Support Software v1.9.1 - http://www.casengo.com/ -->
+        <!--Place this code where you want the button to be rendered -->
+		<div class="casengo-vipbtn"><span style="display:none" subdomain="' . $cas_domain . '" group="39" label="' . $cas_label . '" position="' . $cas_pos . '" theme="' . $cas_theme . '" /></div>
+		<!--Place this code after the last Casengo script -->
+		<script type="text/javascript">
+			(function() {
+				var po = document.createElement(\'script\'); po.type = \'text/javascript\'; po.async = true;
+				po.src = \'//' . $cas_domain . '.casengo.com/apis/vip-widget.js?r=\'+new Date().getTime();
+				var s = document.getElementsByTagName(\'script\')[0]; s.parentNode.insertBefore(po, s);
+			})();
+		</script>
+<a style="display:none" id="Casengo-Customer-Support-Software" href="http://www.casengo.com">Casengo is customer support software, crm, webcare and live chat software for webshops, e-commerce websites, and small businesses. Casengo supports email, livechat, social media, faq, self service and online chat.</a> 
+
+<a style="display:none" id="Casengo-Customer-Support-Software-and-Live-Chat-FAQ" href="http://support.casengo.com">Check the Casengo Customer Support and Live Chat FAQ page for answers to frequently asked questions, and how to get Casengo customer support software, live-chat, and helpdesk software going.</a>  
+        
+<a style="display:none" id="Casengo-CRM-Live-Chat-and-Customer-Service-Blog" href="http://www.casengo.com/blog">The blog for anyone interested in customer support, customer service, live chat, social CRM, small business tips and Casengo product updates.</a>
+		<!-- // Casengo Wordpress Live Chat and Customer Support Software -->
+  ';
+  
 }
 
 add_action( 'wp_footer', 'casengo' );
