@@ -3,7 +3,7 @@
    Plugin Name: Casengo Contact Widget
    Plugin URI: http://www.casengo.com/plugins/wordpress/v2
    Description: A plugin to add the Casengo widget to the Wordpress site
-   Version: 1.9.4
+   Version: 1.9.5
    Author: Thijs van der Veen
    Author URI: http://www.casengo.com
    License: GPL2
@@ -23,27 +23,8 @@ function casengo() {
   if(!isset($cas_theme)) $cas_theme = 'darkgrey';
   
   // embed script	
-  /*
-  echo '
-  		<!-- Live Chat and Customer Support Software by Casengo - WordPress Live Chat and Customer Support Software v1.9.1 - http://www.casengo.com/ -->
-        <!--Place this code where you want the button to be rendered -->
-		<div class="casengo-vipbtn"><!-- subdomain="' . $cas_domain . '" group="39" label="' . $cas_label . '" position="' . $cas_pos . '" theme="' . $cas_theme . '" --></div>
-		<!--Place this code after the last Casengo script -->
-		<script type="text/javascript">
-			(function() {
-				var po = document.createElement(\'script\'); po.type = \'text/javascript\'; po.async = true;
-				po.src = \'//' . $cas_domain . '.casengo.com/apis/vip-widget.js?r=\'+new Date().getTime();
-				var s = document.getElementsByTagName(\'script\')[0]; s.parentNode.insertBefore(po, s);
-			})();
-		</script>
-<a style="display:none" id="Casengo-Customer-Support-Software" href="http://www.casengo.com">Casengo is customer support software, crm, webcare and live chat software for webshops, e-commerce websites, and small businesses. Casengo supports email, livechat, social media, faq, self service and online chat.</a> 
 
-<a style="display:none" id="Casengo-Customer-Support-Software-and-Live-Chat-FAQ" href="http://support.casengo.com">Check the Casengo Customer Support and Live Chat FAQ page for answers to frequently asked questions, and how to get Casengo customer support software, live-chat, and helpdesk software going.</a>  
-        
-<a style="display:none" id="Casengo-CRM-Live-Chat-and-Customer-Service-Blog" href="http://www.casengo.com/blog">The blog for anyone interested in customer support, customer service, live chat, social CRM, small business tips and Casengo product updates.</a>
-		<!-- // Casengo Wordpress Live Chat and Customer Support Software -->
-  ';
-  */
+if($cas_pos != 'inline') {
 
   echo '
   		<!-- Live Chat and Customer Support Software by Casengo - WordPress Live Chat and Customer Support Software v1.9.1 - http://www.casengo.com/ -->
@@ -65,6 +46,27 @@ function casengo() {
 		<!-- // Casengo Wordpress Live Chat and Customer Support Software -->
   ';
   
+} else {
+  echo '
+  		<!-- Live Chat and Customer Support Software by Casengo - WordPress Live Chat and Customer Support Software v1.9.1 - http://www.casengo.com/ -->
+        <!--Place this code where you want the button to be rendered -->
+		<div class="casengo-vipbtn"><span style="display:none" subdomain="' . $cas_domain . '" group="undefined" ctype="inline" /></div>
+		<!--Place this code after the last Casengo script -->
+		<script type="text/javascript">
+			(function() {
+				var po = document.createElement(\'script\'); po.type = \'text/javascript\'; po.async = true;
+				po.src = \'//' . $cas_domain . '.casengo.com/apis/inline-widget.js?r=\'+new Date().getTime();
+				var s = document.getElementsByTagName(\'script\')[0]; s.parentNode.insertBefore(po, s);
+			})();
+		</script>
+<a style="display:none" id="Casengo-Customer-Support-Software" href="http://www.casengo.com">Casengo is customer support software, crm, webcare and live chat software for webshops, e-commerce websites, and small businesses. Casengo supports email, livechat, social media, faq, self service and online chat.</a> 
+
+<a style="display:none" id="Casengo-Customer-Support-Software-and-Live-Chat-FAQ" href="http://support.casengo.com">Check the Casengo Customer Support and Live Chat FAQ page for answers to frequently asked questions, and how to get Casengo customer support software, live-chat, and helpdesk software going.</a>  
+        
+<a style="display:none" id="Casengo-CRM-Live-Chat-and-Customer-Service-Blog" href="http://www.casengo.com/blog">The blog for anyone interested in customer support, customer service, live chat, social CRM, small business tips and Casengo product updates.</a>
+		<!-- // Casengo Wordpress Live Chat and Customer Support Software -->
+  ';
+  }
 }
 
 add_action( 'wp_footer', 'casengo' );
@@ -176,6 +178,22 @@ function casengo_settings() {
         // Put an settings updated message on the screen
 
 ?>
+
+<script type="text/javascript">
+    function OnSelectionChange(select) {
+        var sel = select.options[select.selectedIndex].value;
+        
+        if(sel == 'inline') {
+            document.getElementById('cas_widget_theme').disabled = true;
+            document.getElementById('cas_widget_label').disabled = true;
+        } else {
+            document.getElementById('cas_widget_theme').disabled = false;
+            document.getElementById('cas_widget_label').disabled = false;
+        }
+    }
+</script>
+
+
 <div class="updated"><p><?php _e('Settings saved. <strong><a href="' . get_site_url() . '">Visit your site</a></strong> to check your new widget settings.', 'menu-general' ); ?></p></div>
 <?php
 
@@ -217,17 +235,20 @@ Specify how the chat button appears on your site<br><br>
 <tr>
 <td style="width:160px">Position of button:</td>
 <td>
-<select name="<?php echo 'cas_widget_pos'; ?>" style="width:200px" value="">
+<select id="cas_widget_pos" name="<?php echo 'cas_widget_pos'; ?>" style="width:200px" value="" onchange="OnSelectionChange(this)">
 <option <?php if ($opt_val === 'middle-left') echo 'selected="true"' ?> value="middle-left">Middle-left (default)</option>
 <option <?php if ($opt_val === 'middle-right') echo 'selected="true"' ?> value="middle-right">Middle-right</option>
 <option <?php if ($opt_val === 'bottom-right') echo 'selected="true"' ?> value="bottom-right">Bottom-right</option>
+<option disabled value="">-----------------------------------------------</option>
+<option <?php if ($opt_val === 'inline') echo 'selected="true"' ?> value="inline">Inline chat widget (BETA)</option>
 </select>
 </td>
 </tr>
+<?php if ($opt_val !== 'inline') { ?>
 <tr>
 <td style="width:160px">Color scheme:</td>
 <td>
-<select name="<?php echo 'cas_widget_theme'; ?>" style="width:200px" value="">
+<select id="cas_widget_theme" name="<?php echo 'cas_widget_theme'; ?>" style="width:200px" value="">
 <option <?php if ($opt_theme === 'darkgrey') echo 'selected="true"' ?> value="darkgrey">Dark grey (default)</option>
 <option <?php if ($opt_theme === 'lightgrey') echo 'selected="true"' ?> value="lightgrey">Light grey</option>
 <option <?php if ($opt_theme === 'white') echo 'selected="true"' ?> value="white">White</option>
@@ -239,15 +260,27 @@ Specify how the chat button appears on your site<br><br>
 </select>
 </td>
 </tr>
+<?php } ?>
+<?php if ($opt_val !== 'inline') { ?>
 <tr>
 <td style="width:160px">Button label:</td>
 <td>
-<input type="text" name="cas_widget_label" size="30" value="<?php echo get_option('cas_widget_label') ?>">
+<input id="cas_widget_label" type="text" name="cas_widget_label" size="30" value="<?php echo get_option('cas_widget_label') ?>">
 </td>
 </tr>
+<?php } ?>
+<?php if ($opt_val === 'inline') { ?>
+<tr><td></td><td><br>
+<strong>To change the appearance of the inline chat, click the buttom below to go to the casengo settings page. (Login required!)</strong><br>
+<br><a href="http://login.casengo.com/admin/#!/channels/vip/inline" class="button-primary" target="_blank">Customize inline chat</a></td></tr>
+<?php } ?>
+
 </table>
 
 <br />
+
+
+
 <hr />
 <p class="submit">
 
@@ -255,7 +288,7 @@ Specify how the chat button appears on your site<br><br>
 </p>
 
 </form>
-<?php	
-	echo '</div>';
-}
-?>
+</div>
+<?php } ?>
+
+
