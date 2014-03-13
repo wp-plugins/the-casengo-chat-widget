@@ -4,13 +4,13 @@ Tags: addon, agent chat, casengo, casengo chat, casengo live chat, chat, chat bu
 
 Requires at least: 3.3
 Tested up to: 3.8.1
-Stable tag: tags/1.9.5
+Stable tag: tags/1.9.6
 
 Live Chat from Casengo is Customer Support Software from the Cloud, First User is Always Free!
 
 == Description ==
 
-**Welcome at the most popular Wordpress Live Chat plugin. The Casengo Live Chat plugin allows you to add live chat to your blog or website quickly and easily. With Casengo, you can handle enquiries via email, social media and live chat directly from your website. Casengo Live Chat helps you to respond to customer queries faster than ever, and to improve their satisfaction with a delicious combination of live chat and email.**
+**Welcome at the most popular Wordpress Live Chat plugin. The Casengo Live Chat plugin allows you to add live Chat to your blog or website quickly and easily. With Casengo, you can handle enquiries via email, Twitter, Facebook and Live Chat directly from your website. Casengo Live Chat helps you to respond to customer queries faster than ever, and to improve their satisfaction with a delicious combination of live chat and email.**
 
 Check out the Casengo Video:
 
@@ -91,10 +91,6 @@ Go to <a href=\"http://www.casengo.com\" target=\"_blank\" title=\"Casengo\">cas
 
 Yes, you do. You can <a href=\"http://get.casengo.com/signup/?ref=wordpress-plugin-page&utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\" target=\"_blank\">sign up here</a>. Casengo offers a free trial for 30 days; thereafter, the first agent is always free. More information on product features and pricing can be found at <a href=\"http://www.casengo.com\">casengo.com</a>.
 
-*   **The chat widget does not appear on my site. What could be the problem?**
-
-There could be a conflict with another WordPress plugin. There is a known problem with certain optimization plugins such as WP Super Cache and Jetpack. Try disabling the option to remove HTML comments or caching in general. In most cases this should display the chat button on the website. If the problem persists, contact us <a href=\"http://support.casengo.com/vip\">via chat</a>
-
 *   **Which languages does Casengo support?**
 
 Casengo currently support English, German, Dutch and Russian. If you want to help out Casengo in adding new languages drop us a note at support@casengo.com
@@ -142,10 +138,6 @@ You can forward emails from your Hotmail account to your Casengo account by foll
 5. Don't forget to select the check box 'Keep a Copy of Forwarded Messages in your Windows Live Hotmail Inbox'.   
 6. Click 'Save'.
 
-*   **How can I add Facebook to my account?**
-
-Having focused on traditional channels such as email and webchat, we don't support Facebook yet. But you may rest assured that we're working very hard to get it into the next release! Keep your eyes and ears tuned for more information.
-
 *   **How can I customise the look and feel of my knowledge base to fit my WordPress theme ?**
 
 Download the Casengo FAQ plugin for WordPress to integrate the knowledge base into your site. <a href=\"http://wordpress.org/plugins/casengo-faq-web-self-service-plugin\">Click here</a> to go to the Casengo FAQ plugin page for more information.
@@ -163,6 +155,7 @@ Free Account
 
 Premium Account
 Pay €29 / month for each additional agent license you need and get everything included in the Free account PLUS:
+- Handle Facebook and Twitter messages
 - Additional mailboxes
 - Groups
 - Customized branding

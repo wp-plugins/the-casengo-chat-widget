@@ -3,7 +3,7 @@
    Plugin Name: Casengo Contact Widget
    Plugin URI: http://www.casengo.com/plugins/wordpress/v2
    Description: A plugin to add the Casengo widget to the Wordpress site
-   Version: 1.9.5
+   Version: 1.9.6
    Author: Thijs van der Veen
    Author URI: http://www.casengo.com
    License: GPL2
@@ -15,21 +15,30 @@ function casengo() {
   $cas_pos = get_option('cas_widget_pos');
   $cas_label = get_option('cas_widget_label');
   $cas_theme = get_option('cas_widget_theme');
+  $cas_lang = get_option('cas_widget_lang');
   
   // DEFAULT VALUES
   if(!isset($cas_domain)) $cas_domain = 'support';
   if(!isset($cas_pos)) $cas_pos = 'middle-left';
   if(!isset($cas_label)) $cas_label = 'Contact';
   if(!isset($cas_theme)) $cas_theme = 'darkgrey';
+  if(!isset($cas_lang)) $cas_lang = '';
   
   // embed script	
+
+  // if language is specified
+  if(trim($cas_lang) !== '') {
+    $cas_language_add = ' language="' . $cas_lang . '"';
+  } else {
+    $cas_language_add = '';
+  }
 
 if($cas_pos != 'inline') {
 
   echo '
-  		<!-- Live Chat and Customer Support Software by Casengo - WordPress Live Chat and Customer Support Software v1.9.1 - http://www.casengo.com/ -->
+  		<!-- Live Chat and Customer Support Software by Casengo - WordPress Live Chat and Customer Support Software v1.9.6 - http://www.casengo.com/ -->
         <!--Place this code where you want the button to be rendered -->
-		<div class="casengo-vipbtn"><span style="display:none" subdomain="' . $cas_domain . '" group="39" label="' . $cas_label . '" position="' . $cas_pos . '" theme="' . $cas_theme . '" /></div>
+		<div class="casengo-vipbtn"><span style="display:none" subdomain="' . $cas_domain . '" group="39" label="' . $cas_label . '" position="' . $cas_pos . '" theme="' . $cas_theme . '"' . $cas_language_add . ' /></div>
 		<!--Place this code after the last Casengo script -->
 		<script type="text/javascript">
 			(function() {
@@ -48,9 +57,9 @@ if($cas_pos != 'inline') {
   
 } else {
   echo '
-  		<!-- Live Chat and Customer Support Software by Casengo - WordPress Live Chat and Customer Support Software v1.9.1 - http://www.casengo.com/ -->
+  		<!-- Live Chat and Customer Support Software by Casengo - WordPress Live Chat and Customer Support Software v1.9.6 - http://www.casengo.com/ -->
         <!--Place this code where you want the button to be rendered -->
-		<div class="casengo-vipbtn"><span style="display:none" subdomain="' . $cas_domain . '" group="undefined" ctype="inline" /></div>
+		<div class="casengo-vipbtn"><span style="display:none" subdomain="' . $cas_domain . '" group="undefined" ctype="inline"' . $cas_language_add . ' /></div>
 		<!--Place this code after the last Casengo script -->
 		<script type="text/javascript">
 			(function() {
@@ -172,27 +181,11 @@ function casengo_settings() {
         
         update_option( 'cas_widget_label', $label);
         update_option( 'cas_widget_theme', $_POST['cas_widget_theme']);
-        
-        
+        update_option( 'cas_widget_lang', $_POST['cas_widget_lang']);
 
         // Put an settings updated message on the screen
 
 ?>
-
-<script type="text/javascript">
-    function OnSelectionChange(select) {
-        var sel = select.options[select.selectedIndex].value;
-        
-        if(sel == 'inline') {
-            document.getElementById('cas_widget_theme').disabled = true;
-            document.getElementById('cas_widget_label').disabled = true;
-        } else {
-            document.getElementById('cas_widget_theme').disabled = false;
-            document.getElementById('cas_widget_label').disabled = false;
-        }
-    }
-</script>
-
 
 <div class="updated"><p><?php _e('Settings saved. <strong><a href="' . get_site_url() . '">Visit your site</a></strong> to check your new widget settings.', 'menu-general' ); ?></p></div>
 <?php
@@ -213,7 +206,22 @@ function casengo_settings() {
       // Read in existing option value from database
       $opt_val = get_option( 'cas_widget_pos' );
       $opt_theme = get_option( 'cas_widget_theme' );
+      $opt_lang = get_option( 'cas_widget_lang' );
     ?>
+
+<script type="text/javascript">
+    function OnSelectionChange(select) {
+        var sel = select.options[select.selectedIndex].value;
+        
+        if(sel == 'inline') {
+            document.getElementById('cas_widget_theme').disabled = true;
+            document.getElementById('cas_widget_label').disabled = true;
+        } else {
+            document.getElementById('cas_widget_theme').disabled = false;
+            document.getElementById('cas_widget_label').disabled = false;
+        }
+    }
+</script>
 
 <form name="form1" method="post" action="">
 <input type="hidden" name="<?php echo $hidden_field_name; ?>" value="Y">
@@ -244,9 +252,19 @@ Specify how the chat button appears on your site<br><br>
 </select>
 </td>
 </tr>
+<tr>
+<td style="width:160px">Language:</td>
+<td>
+<select id="cas_widget_pos" name="<?php echo 'cas_widget_lang'; ?>" style="width:200px" value="">
+<option <?php if ($opt_lang === '') echo 'selected="true"' ?> value="">(Default)</option>
+<option <?php if ($opt_lang === 'en_US') echo 'selected="true"' ?> value="en_US">English</option>
+<option <?php if ($opt_lang === 'nl_NL') echo 'selected="true"' ?> value="nl_NL">Nederlands</option>
+</select>
+</td>
+</tr>
 <?php if ($opt_val !== 'inline') { ?>
 <tr>
-<td style="width:160px">Color scheme:</td>
+<td style="width:160px"><span id="cas_widget_lbl_theme">Color theme:</span></td>
 <td>
 <select id="cas_widget_theme" name="<?php echo 'cas_widget_theme'; ?>" style="width:200px" value="">
 <option <?php if ($opt_theme === 'darkgrey') echo 'selected="true"' ?> value="darkgrey">Dark grey (default)</option>
@@ -263,25 +281,31 @@ Specify how the chat button appears on your site<br><br>
 <?php } ?>
 <?php if ($opt_val !== 'inline') { ?>
 <tr>
-<td style="width:160px">Button label:</td>
+<td style="width:160px"><span id="cas_widget_lbl_label">Button label:</span></td>
 <td>
-<input id="cas_widget_label" type="text" name="cas_widget_label" size="30" value="<?php echo get_option('cas_widget_label') ?>">
+<input id="cas_widget_label" type="text" name="cas_widget_label" size="40" value="<?php echo get_option('cas_widget_label') ?>">
 </td>
 </tr>
 <?php } ?>
 <?php if ($opt_val === 'inline') { ?>
 <tr><td></td><td><br>
-<strong>To change the appearance of the inline chat, click the buttom below to go to the casengo settings page. (Login required!)</strong><br>
-<br><a href="http://login.casengo.com/admin/#!/channels/vip/inline" class="button-primary" target="_blank">Customize inline chat</a></td></tr>
+<strong>To change the appearance (color, position etc.) of the inline chat, click the button below to go to the casengo settings page. (Login required!)</strong><br>
+<br><span style="margin-left: 20px"><a href="http://login.casengo.com/admin/#!/channels/vip/inline" class="button-primary" target="_blank">Customize inline chat</a></span></td></tr>
 <?php } ?>
-
 </table>
-
 <br />
-
-
-
 <hr />
+<script type="text/javascript">
+
+    function cas_popupwindow() {
+        var w = 500;
+        var h = 600;
+        var left = (screen.width/2)-(w/2);
+        var top = (screen.height/2)-(h/2);
+        window.open('//support.casengo.com/vip', 'casengo support', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width='+w+', height='+h+', top='+top+', left='+left);
+    }
+</script>
+if you need help to configure Casengo Live Chat Widget on your website, click here to <a href="#" onclick="cas_popupwindow(); return false;">chat with us</a>.
 <p class="submit">
 
 <input type="submit" name="Submit" class="button-primary" value="<?php esc_attr_e('Save Changes') ?>" />
@@ -290,5 +314,3 @@ Specify how the chat button appears on your site<br><br>
 </form>
 </div>
 <?php } ?>
-
-
