@@ -4,7 +4,7 @@ Tags: addon, agent chat, casengo, casengo chat, casengo live chat, chat, chat bu
 
 Requires at least: 3.3
 Tested up to: 3.8.1
-Stable tag: tags/1.9.6
+Stable tag: tags/2.0
 
 Live Chat from Casengo is Customer Support Software from the Cloud, First User is Always Free!
 
@@ -176,6 +176,7 @@ Pay €29 / month for each additional agent license you need and get everything in
 1.9.1 After plugin activation, the browser will be redirected to the settings page automatically. The settings page has moved to its own Casengo menu.
 1.9.4 Bug fixed: compatible with optimization and cache plugins that removes HTML comments
 1.9.5 Support for inline chat (in beta)
+2.0 add custom language support and improved admin user interface
 
 ==Readme Generator== 
 
