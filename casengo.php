@@ -3,7 +3,7 @@
    Plugin Name: Casengo Contact Widget
    Plugin URI: http://www.casengo.com/plugins/wordpress/v2
    Description: A plugin to add the Casengo widget to the Wordpress site
-   Version: 2.0
+   Version: 2.0.1
    Author: Thijs van der Veen
    Author URI: http://www.casengo.com
    License: GPL2
