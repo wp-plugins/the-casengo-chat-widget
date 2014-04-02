@@ -146,7 +146,7 @@ function casengo_admin_menu() {
 	$file = dirname( __FILE__ ) . '/casengo.php';
 	$icon = "http://www.casengo.com/assets/favicon.png";
 	//if (! casengo_admin_menu_exists(dirname( __FILE__ ) . '/casengo.php')) {
-		add_menu_page('Casengo ( Chat )', 'Casengo ( Chat )', 10, dirname( __FILE__ ) . '/casengo.php', '', $icon);
+		add_menu_page('Casengo ( Chat )', 'Casengo ( Chat )', 'manage_options', dirname( __FILE__ ) . '/casengo.php', '', $icon);
 	//}
 	add_submenu_page(dirname( __FILE__ ) . '/casengo.php', 'Settings', 'Settings', 'manage_options', dirname( __FILE__ ) . '/casengo.php', 'casengo_settings');	
 
