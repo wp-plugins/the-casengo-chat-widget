@@ -57,7 +57,7 @@ if($cas_type != 'inline') {
 		</script>
 <a style="display:none" id="Casengo-Customer-Support-Software" href="http://www.casengo.com">Casengo is customer support software, crm, webcare and live chat software for webshops, e-commerce websites, and small businesses. Casengo supports email, livechat, social media, faq, self service and online chat.</a> 
 
-<a style="display:none" id="Casengo-Customer-Support-Software-and-Live-Chat-FAQ" href="http://support.casengo.com">Check the Casengo Customer Support and Live Chat FAQ page for answers to frequently asked questions, and how to get Casengo customer support software, live-chat, and helpdesk software going.</a>  
+<a style="display:none" id="Casengo-Customer-Support-Software-and-Live-Chat-FAQ" href="//support.casengo.com">Check the Casengo Customer Support and Live Chat FAQ page for answers to frequently asked questions, and how to get Casengo customer support software, live-chat, and helpdesk software going.</a>  
         
 <a style="display:none" id="Casengo-CRM-Live-Chat-and-Customer-Service-Blog" href="http://www.casengo.com/blog">The blog for anyone interested in customer support, customer service, live chat, social CRM, small business tips and Casengo product updates.</a>
 		<!-- // Casengo Wordpress Live Chat and Customer Support Software -->
@@ -78,7 +78,7 @@ if($cas_type != 'inline') {
 		</script>
 <a style="display:none" id="Casengo-Customer-Support-Software" href="http://www.casengo.com">Casengo is customer support software, crm, webcare and live chat software for webshops, e-commerce websites, and small businesses. Casengo supports email, livechat, social media, faq, self service and online chat.</a> 
 
-<a style="display:none" id="Casengo-Customer-Support-Software-and-Live-Chat-FAQ" href="http://support.casengo.com">Check the Casengo Customer Support and Live Chat FAQ page for answers to frequently asked questions, and how to get Casengo customer support software, live-chat, and helpdesk software going.</a>  
+<a style="display:none" id="Casengo-Customer-Support-Software-and-Live-Chat-FAQ" href="//support.casengo.com">Check the Casengo Customer Support and Live Chat FAQ page for answers to frequently asked questions, and how to get Casengo customer support software, live-chat, and helpdesk software going.</a>  
         
 <a style="display:none" id="Casengo-CRM-Live-Chat-and-Customer-Service-Blog" href="http://www.casengo.com/blog">The blog for anyone interested in customer support, customer service, live chat, social CRM, small business tips and Casengo product updates.</a>
 		<!-- // Casengo Wordpress Live Chat and Customer Support Software -->
@@ -144,7 +144,7 @@ function casengo_admin_menu_exists( $handle, $sub = true){
 
 function casengo_admin_menu() {
 	$file = dirname( __FILE__ ) . '/casengo.php';
-	$icon = "http://www.casengo.com/assets/favicon.png";
+	$icon = plugin_dir_url(__FILE__) . "/images/favicon.png";
 	//if (! casengo_admin_menu_exists(dirname( __FILE__ ) . '/casengo.php')) {
 		add_menu_page('Casengo ( Chat )', 'Casengo ( Chat )', 'manage_options', dirname( __FILE__ ) . '/casengo.php', '', $icon);
 	//}
@@ -266,7 +266,7 @@ Enter your subdomain of your Casengo account below. This field is mandatory. If 
 <tr>
 <td style="width:160px">Subdomain:</td>
 <td>
-http://<input type="text" name="cas_widget_domain" size="20" style="font-weight: bold" value="<?php echo get_option('cas_widget_domain') ?>">.casengo.com
+http(s)://<input type="text" name="cas_widget_domain" size="20" style="font-weight: bold" value="<?php echo get_option('cas_widget_domain') ?>">.casengo.com
 </td>
 </tr>
 <tr>
@@ -332,7 +332,7 @@ Specify how the chat button appears on your site<br><br>
 </tr>
 <tr id="inline_information_bar"><td></td><td><br>
 <strong>To change the appearance (color, position etc.) of the inline chat, click the button below to go to the casengo settings page. (Login required!)</strong><br>
-<br><span><a href="http://login.casengo.com/admin/#!/channels/vip/inline" class="button-primary" target="_blank">Customize inline chat</a></span></td></tr>
+<br><span><a href="//login.casengo.com/admin/#!/channels/vip/inline" class="button-primary" target="_blank">Customize inline chat</a></span></td></tr>
 </table>
 <br />
 <hr />
