@@ -144,7 +144,7 @@ function casengo_admin_menu_exists( $handle, $sub = true){
 
 function casengo_admin_menu() {
 	$file = dirname( __FILE__ ) . '/casengo.php';
-	$icon = "http://www.casengo.com/assets/favicon.png";
+	$icon = plugin_dir_url(__FILE__) . "/images/favicon.png";
 	//if (! casengo_admin_menu_exists(dirname( __FILE__ ) . '/casengo.php')) {
 		add_menu_page('Casengo ( Chat )', 'Casengo ( Chat )', 'manage_options', dirname( __FILE__ ) . '/casengo.php', '', $icon);
 	//}
