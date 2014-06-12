@@ -3,7 +3,7 @@ Contributors: casengo
 Tags: addon, agent chat, casengo, casengo chat, casengo live chat, chat, chat button, chat link, chat module, chat online, chat plugin, chat script, chat software, chat support, chat tool, chattool, chat widget, chat wordpress, live chat facebook, chat live, chat module, chat online, chat plugin, chat module, chatwidget, clickdesk, collaboration, collaborative, comment, comments, contact, contact us, contact button, contact form, contact chat, customer chat, customer service software, customer tool, customer support, customer support software, desk, email, extension, freshdesk, help, help desk, helpdesk, html, html script, html widget, javascript, java script, live chat, live chat widget, live help, live support, live support software, live chat button, live chat software, liveperson, media, messaging, module, modules, olark, online chat, online customer chat, online conversion, online live chat, online support, plugin chat, plugin, plug in, plug-in, post, snap engage, support, support tool, support chat, support software, support desk, web, webchat, website, widget, zendesk, zendesk live chat support
 
 Requires at least: 3.3
-Tested up to: 3.8.1
+Tested up to: 3.9.1
 Stable tag: tags/2.0.1
 
 Live Chat from Casengo is Customer Support Software from the Cloud, First User is Always Free!
