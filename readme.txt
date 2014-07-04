@@ -6,7 +6,7 @@ Requires at least: 3.3
 Tested up to: 3.9.1
 Stable tag: tags/2.0.1
 
-Live Chat from Casengo is Customer Support Software from the Cloud, First User is Always Free!
+Live Chat from Casengo is Customer Support Software from the Cloud.
 
 == Description ==
 
@@ -16,13 +16,13 @@ Check out the Casengo Video:
 
 [vimeo http://vimeo.com/55199455]
 
-To configure the live chat plugin, you need a Casengo account. Have an account already? Way to go! If not, <a href=\"http://get.casengo.com/signup/?ref=wordpress-plugin-page&utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\" target=\"_blank\" title=\"Sign up for a free Casengo account\">sign up here</a>. You'll be ready to go in two minutes tops.
+To configure the live chat plugin, you need a Casengo account. Have an account already? Way to go! If not, <a href=\"http://get.casengo.com/signup/?ref=wordpress-plugin-page&utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\" target=\"_blank\" title=\"Sign up for a free trial Casengo account\">sign up here</a>. You'll be ready to go in two minutes tops.
 
-Casengo Live Chat is free to trial for 30 days. Afterwards, **the first agent is always free (and will be so forever and ever)!**
+Casengo Live Chat is free to trial for 30 days.
 
-**It's really easy. Get started in 2 minutes tops, no training needed!**
+**It's really easy. Get started in 2 minutes tops, no training needed.**
 
-Step 1. Create a free Casengo account at <a href=\"http://get.casengo.com/signup/?ref=wordpress-plugin-page&utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\" target=\"_blank\">get.casengo.com/signup</a><br>
+Step 1. Create a free trial Casengo account at <a href=\"http://get.casengo.com/signup/?ref=wordpress-plugin-page&utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\" target=\"_blank\">get.casengo.com/signup</a><br>
 Step 2. log into your WordPress Admin Site, search for plugin 'Casengo Live Chat' and install it.<br>
 Step 3. Go to the Casengo Live Chat config section in WordPress and set your unique Casengo subdomain, color theme and position!
 
@@ -89,7 +89,7 @@ Go to <a href=\"http://www.casengo.com\" target=\"_blank\" title=\"Casengo\">cas
 
 *   **Do I need a Casengo account to add the widget to my site?**
 
-Yes, you do. You can <a href=\"http://get.casengo.com/signup/?ref=wordpress-plugin-page&utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\" target=\"_blank\">sign up here</a>. Casengo offers a free trial for 30 days; thereafter, the first agent is always free. More information on product features and pricing can be found at <a href=\"http://www.casengo.com\">casengo.com</a>.
+Yes, you do. You can <a href=\"http://get.casengo.com/signup/?ref=wordpress-plugin-page&utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\" target=\"_blank\">sign up here</a>. Casengo offers a free trial for 30 days. More information on product features and pricing can be found at <a href=\"http://www.casengo.com\">casengo.com</a>.
 
 *   **Which languages does Casengo support?**
 
@@ -141,25 +141,6 @@ You can forward emails from your Hotmail account to your Casengo account by foll
 *   **How can I customise the look and feel of my knowledge base to fit my WordPress theme ?**
 
 Download the Casengo FAQ plugin for WordPress to integrate the knowledge base into your site. <a href=\"http://wordpress.org/plugins/casengo-faq-web-self-service-plugin\">Click here</a> to go to the Casengo FAQ plugin page for more information.
-
-*   **Casengo Packages**
-
-Casengo has two packages to suit your needs; 'Free' and 'Premium'. Here's what you get:
-
-Free Account
-- 1 agent license
-- The Casengo universal inbox
-- Chat application
-- Knowledge Base / FAQ site
-- Basic Reporting
-
-Premium Account
-Pay €29 / month for each additional agent license you need and get everything included in the Free account PLUS:
-- Handle Facebook and Twitter messages
-- Additional mailboxes
-- Groups
-- Customized branding
-- Advanced reporting (coming soon!)
 
 == Screenshots ==
 
