@@ -12,7 +12,7 @@ Live Chat from Casengo is Customer Support Software from the Cloud.
 
 **1/Aug/2014 update: Added push notification for mobile devices (iOS and Android). Download and install the Casengo App now. Available for iOS devices <a href=\"https://itunes.apple.com/nl/app/casengo/id581309088\" target=\"_blank\">click here</a> and <a href=\"https://play.google.com/store/apps/details?id=com.avportable.casengo3\" target=\"_blank\">Android devices</a>.**
 
-**Welcome at the most popular Wordpress Live Chat plugin. The Casengo Live Chat plugin allows you to add live Chat to your blog or website quickly and easily. With Casengo, you can handle enquiries via email, Twitter, Facebook and Live Chat directly from your website. Casengo Live Chat helps you to respond to customer queries faster than ever, and to improve their satisfaction with a delicious combination of live chat and email.**
+Welcome at the most popular Wordpress Live Chat plugin. The Casengo Live Chat plugin allows you to add live Chat to your blog or website quickly and easily. With Casengo, you can handle enquiries via email, Twitter, Facebook and Live Chat directly from your website. Casengo Live Chat helps you to respond to customer queries faster than ever, and to improve their satisfaction with a delicious combination of live chat and email.
 
 Check out the Casengo Video:
 
