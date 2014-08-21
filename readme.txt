@@ -1,4 +1,4 @@
-=== Casengo Live Chat ===
+﻿=== Casengo Live Chat ===
 Contributors: casengo 
 Tags: chat, chat online, chat plugin, chat software, chat widget, customer help, customer support,free chat, free live chat, live chat, live chat plugin, live chat support plugin, live help, live support,live support plugin, online support, support, support plugin, visitor chat, WordPress chat, zopim, olark, zendesk, live chat inc, snap engage, clickdesk, live person
 
@@ -136,7 +136,7 @@ That’s great! You can customize the Live Chat window (the Live Chat widget) to
 It might indeed be a good idea to disable the live chat functionality temporarily, for instance when you’re not available to accept chat requests. It’s easy:
 
 <li>1. Start with opening the Casengo application. Press ‘Go to the Admin Site’.</li>
-<li>2. Click on the tab ‘Channels’ and then ‘Configuration’.<li>
+<li>2. Click on the tab ‘Channels’ and then ‘Configuration’.</li>
 <li>3. Go to ‘Chat Button’ and select ‘hide’.</li>
 <li>4. Wait 1 minute for the changes to take effect.</li>
 
@@ -190,26 +190,26 @@ Forward emails from your Gmail account to your Casengo email address, by simply 
 
 [youtube http://www.youtube.com/watch?v=SE9R3RSPBTQ]
 
-<li>1. Click the gear icon in the upper right, then select 'Settings'.</li> 
+<li>1. Click the gear icon in the upper right, then select 'Settings'.</li>
 <li>2. Click the 'Forwarding and POP/IMAP' tab.</li>
 <li>3. From the first drop-down menu in the "Forwarding" section, select 'Add a Forwarding Address.'</li>
-<li>4. Enter your bespoke Casengo email address you wish to forward your emails to.</li>  
+<li>4. Enter your bespoke Casengo email address you wish to forward your emails to.</li>
 (For your security, Gmail will send a verification to that email address).</li>
-<li>5. Open your forwarding email account, and find the confirmation message from the Gmail team.</li>  
+<li>5. Open your forwarding email account, and find the confirmation message from the Gmail team.</li>
 <li>6. Click the verification link in that email.</li>
 <li>7. Back in your Gmail account, select the 'Forward a copy of incoming mail to...' option and select your Casengo email address from the drop-down menu.</li>
-<li>8. Select the action you'd like your messages to take from the drop-down menu. You can choose to keep Gmail's copy of the message in your inbox, or you can send it automatically to 'All Mail' or 'Trash'.  
+<li>8. Select the action you'd like your messages to take from the drop-down menu. You can choose to keep Gmail's copy of the message in your inbox, or you can send it automatically to 'All Mail' or 'Trash'.</li>
 <li>9. Click 'Save Changes' and you're done.</li>
 
 *   **How can I set up email forwarding for Hotmail?**
 
 You can forward emails from your Hotmail account to your Casengo account by following these simple steps:
 
-<li>1. Sign in to your Windows Live Hotmail.</li>  
-<li>2. Choose 'Inbox' on the upper right of the screen and click 'Options', followed by 'More Options'.</li>  
-<li>3. Go to 'Managing your Account' and choose 'Email Forwarding'.</li> 
-<li>4. Click 'Forward your Mail to Another Email Account', then type-in the email address on the box that says 'Where do you Want your Messages to be Sent?'</li>  
-<li>5. Don't forget to select the check box 'Keep a Copy of Forwarded Messages in your Windows Live Hotmail Inbox'.</li> 
+<li>1. Sign in to your Windows Live Hotmail.</li>
+<li>2. Choose 'Inbox' on the upper right of the screen and click 'Options', followed by 'More Options'.</li>
+<li>3. Go to 'Managing your Account' and choose 'Email Forwarding'.</li>
+<li>4. Click 'Forward your Mail to Another Email Account', then type-in the email address on the box that says 'Where do you Want your Messages to be Sent?'</li>
+<li>5. Don't forget to select the check box 'Keep a Copy of Forwarded Messages in your Windows Live Hotmail Inbox'.</li>
 <li>6. Click 'Save'.</li>
 
 *   **How can I customise the look and feel of my knowledge base to fit my WordPress theme?**
@@ -218,7 +218,7 @@ Download the Casengo FAQ plugin for WordPress to integrate the knowledge base in
 
 *   **Still questioning the benefits of live chat?**
 
-Our team wrote a great article on the benefits of live chat <a href="http://www.casengo.com/blog/live-chat-software-5-benefits/>Live chat software: 5 benefits for webshops</a>
+Our team wrote a great article on the benefits of live chat <a href="http://www.casengo.com/blog/live-chat-software-5-benefits/">Live chat software: 5 benefits for webshops</a>
 
 *   **How does Casengo compare to other live chat providers (Zopim, Olark, Snapengage, Zendesk, Clickdesk, Live Chat Inc, Live Person)**
 
