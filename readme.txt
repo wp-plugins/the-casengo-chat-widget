@@ -1,6 +1,6 @@
 === Casengo Live Chat ===
 Contributors: casengo 
-Tags: chat, chat online, chat plugin, chat software, chat widget, customer help, customer support,free chat, free live chat, live chat, live chat plugin, live chat support plugin, live help, live support,live support plugin, online support, support, support plugin, visitor chat, WordPress chat
+Tags: chat, chat online, chat plugin, chat software, chat widget, customer help, customer support,free chat, free live chat, live chat, live chat plugin, live chat support plugin, live help, live support,live support plugin, online support, support, support plugin, visitor chat, WordPress chat, zopim, olark, zendesk, live chat inc, snap engage, clickdesk, live person
 
 Requires at least: 3.3
 Tested up to: 3.9.1
@@ -10,26 +10,26 @@ Casengo Live Chat is Customer Support Software from the Cloud.
 
 == Description ==
 
-The Casengo Live Chat plugin allows you to add live chat to your website quickly and easily. With Casengo Live Chat, you can handle questions via live chat, email, Twitter, or Facebook directly from your website. Casengo Live Chat helps you to respond faster to questions than ever, and to improve their satisfaction with a delicious combination of live chat and email.
+<a href="http://www.casengo.com/">Casengo Live Chat</a> allows you to add live chat to your website quickly and easily. With Casengo Live Chat, you can handle questions via live chat, email, Twitter, or Facebook directly from your website. Casengo Live Chat helps you to respond faster to questions than ever, and to improve their satisfaction with a delicious combination of live chat and email.
 
 **Casengo Live Chat Core Features & Benefits**
 
-<li>**Live Chat Customization**  Change look and feel of live chat button and form</li>
-<li>**NEW Mobile App** Use Casengo on your phone or tablet.</li>
-<li>**NEW Twitter search integration** Keep track of relevant keywords and interact directly</li>
-<li>**Facebook integration**  Never miss another post</li>
-<li>**Multi-brand**  Manage multiple websites from within Casengo</li>
-<li>**Knowledge base**  Boost self-service amongst online visitors with the Casengo FAQ plugin</li>
-<li>**Team collaboration** Easily ask co-workers to help out</li>
-<li>**Multi-channel support** Email, chat, social media in 1 inbox</li>
-<li>**Macros**   Quickly provide customers with the right answer</li>
-<li>**Mailboxes** Manage multiple mailboxes from within Casengo</li>
-<li>**Reporting** know your company's peak periods</li>
-<li>**Flex users**  Add short-time users for flexible support</li>
-<li>**In the cloud** Handle customer enquiries from anywhere</li>
-<li>**Instant overview**  Customer status clear at a single glance</li>
-<li>**Simple setup**  No training or technical knowledge needed</li>
-<li>**Hybrid messaging** Seamlessly blend live chat with email and social media</li>
+<li>**Live Chat Customization.**  Change look and feel of live chat button and form</li>
+<li>**NEW Mobile App.** Use Casengo on your phone or tablet.</li>
+<li>**NEW Twitter search integration.** Keep track of relevant keywords and interact directly</li>
+<li>**Facebook integration.**  Never miss another post</li>
+<li>**Multi-brand.**  Manage multiple websites from within Casengo</li>
+<li>**Knowledge base.**  Boost self-service with the Casengo FAQ plugin</li>
+<li>**Team collaboration.** Easily ask co-workers to help out</li>
+<li>**Multi-channel support.** Email, chat, social media in 1 inbox</li>
+<li>**Macros.**   Quickly provide customers with the right answer</li>
+<li>**Mailboxes.** Manage multiple mailboxes from within Casengo</li>
+<li>**Reporting.** know your company's peak periods</li>
+<li>**Flex users.**  Add short-time users for flexible support</li>
+<li>**In the cloud.** Handle customer enquiries from anywhere</li>
+<li>**Instant overview.**  Customer status clear at a single glance</li>
+<li>**Simple setup.**  No training or technical knowledge needed</li>
+<li>**Hybrid messaging.** Seamlessly blend live chat with email and social media</li>
 
 **Check out the Casengo Live Chat Video**
 [vimeo http://vimeo.com/55199455]
@@ -115,6 +115,56 @@ Go to <a href=\"http://www.casengo.com\" target=\"_blank\" title=\"Casengo\">cas
 
 Yes, you do. You can <a href=\"http://get.casengo.com/signup/?ref=wordpress-plugin-page&utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\" target=\"_blank\">sign up here</a>. Casengo offers a free trial for 30 days. More information on product features and pricing can be found at <a href=\"http://www.casengo.com\">casengo.com</a>.
 
+
+*   **How can I customise the Live Chat widget?**
+
+That’s great! You can customize the Live Chat window (the Live Chat widget) to replicate your corporate branding. Here’s how:
+
+<li>1. Get yourself to the Admin Site</li>
+<li>2. Next, press on 'channels’</li>
+<li>3. Go to 'Chat' and click on ‘Appearance’ from the left-hand menu</li>
+<li>4. Click on the editable ‘color’ field and a spectrum of colors will appear. Simply click on the color you fancy to select the background color for your chat widget header. Alternatively, input the hex code if you have this information to hand.</li>
+<li>5.Give your chat window/widget a heading, such as ‘Support’ or ‘Chat now’.</li>
+<li>6. Set the color of your title text by repeating step 3.</li>
+<li>7. Create the ‘Greeting’ people will see when the live chat window appears. For example: “Welcome to Casengo Live Chat”, “Live Chat Window”, “Invitation”, “Pre-Chat Window”, “Offline Message Window”, “Live Chat Window”, “Live Chat Interface”,”How may we help you?”</li>
+<li>8. Upload your company logo by clicking ‘choose file’ > select the JPEG, Gif or PNG file you have on file > and just hit ‘Upload’ to confirm your selection.</li>
+<li>9. Click on ‘Preview’ to see how your chat window looks.</li>
+<li>10. Hit ‘Save’ to lock it in.</li>
+
+*   **How can I hide, deactivate or disable the live chat button on my website when I am offline?**
+
+It might indeed be a good idea to disable the live chat functionality temporarily, for instance when you’re not available to accept chat requests. It’s easy:
+
+<li>1. Start with opening the Casengo application. Press ‘Go to the Admin Site’.</li>
+<li>2. Click on the tab ‘Channels’ and then ‘Configuration’.<li>
+<li>3. Go to ‘Chat Button’ and select ‘hide’.</li>
+<li>4. Wait 1 minute for the changes to take effect.</li>
+
+Note: Only available at 'Basic', 'Premium' and 'Enterprise'.
+
+*   **How do I add a custom template for multiple live chat screens?**
+
+You're able to add multiple live chat screens, in multiple languages. This is useful if you've got a multilingual website, or if you want to use one Casengo Live Chat account for multiple websites. 
+
+Here's how:
+<li>1. Go to the Casengo Admin Site > Channels, and choose Chat > Configuration.</li>
+<li>2. Next to the template dropdown menu, click on “Add Template”.</li>
+<li>3. Choose the language/country in the dropdown and give your custom template a name. Hit “Save”.</li>
+<li>4. Choose your newly added language from the dropdown menu.</li>
+<li>5. Add your custom template messages and hit save at the bottom of the page.</li>
+<li>6. Go to “Appearance” and customize the chat widget in the exact way you want it to be. (TIP: Give your new chat widget a label in the “Show advanced settings”. By doing this, you’ll always be able to see in which language the chat started.)</li>
+<li>7. Choose your new language template from the “Language” dropdown menu, and your new script will be waiting for you at the bottom of the page. Copy this script and paste it where you want it to be. Your new custom language chat is now set up!</li> 
+
+NOTE: This live chat feature is only for Premium live chat users. 
+
+*   **How can I view my live chat history?**
+
+All your live chat records and offline messages are stored in our database. You can query for a particular live chat conversation from your Casengo Live Chat inbox. 
+
+*   **Can I invite a visitor to have a live chat?**
+
+Yes. You can either manually send a live chat invitation to a visitor or set up the live chat auto invitation to automatically invite your visitors to a live chat.
+
 *   **Which languages does Casengo Live Chat support?**
 
 Casengo Live Chat currently support English, German, Dutch and Russian. If you want to help out Casengo Live Chat in adding new languages drop us a note at support@casengo.com
@@ -128,11 +178,11 @@ It is easy... simply put your "support@yourcompanyname.casengo.com" (the email a
 the contact form.
 
 Steps to take:  
-1. Login to your wordpress admin.  
-2. Click on "Contact" in admin menu.  
-3. Click on the form you want to use.  
-4. In the "Mail" fields include "support@yourcompanyname.casengo.com" in the "To" field.  
-5. Save the changes made.
+<li>1. Login to your wordpress admin.</li>
+<li>2. Click on "Contact" in admin menu.</li> 
+<li>3. Click on the form you want to use.</li> 
+<li>4. In the "Mail" fields include "support@yourcompanyname.casengo.com" in the "To" field.</li>
+<li>5. Save the changes made.</li>
 
 *   **How can I set up email forwarding for Gmail?**
 
@@ -140,48 +190,63 @@ Forward emails from your Gmail account to your Casengo email address, by simply 
 
 [youtube http://www.youtube.com/watch?v=SE9R3RSPBTQ]
 
-1. Click the gear icon in the upper right, then select 'Settings'.  
-2. Click the 'Forwarding and POP/IMAP' tab.  
-3. From the first drop-down menu in the "Forwarding" section, select 'Add a Forwarding Address.'  
-4. Enter your bespoke Casengo email address you wish to forward your emails to.  
-(For your security, Gmail will send a verification to that email address).  
-5. Open your forwarding email account, and find the confirmation message from the Gmail team.  
-6. Click the verification link in that email.  
-7. Back in your Gmail account, select the 'Forward a copy of incoming mail to...' option and select your Casengo email address from the drop-down menu.  
-8. Select the action you'd like your messages to take from the drop-down menu. You can choose to keep Gmail's copy of the message in your inbox, or you can send it automatically to 'All Mail' or 'Trash'.  
-9. Click 'Save Changes' and you're done.
+<li>1. Click the gear icon in the upper right, then select 'Settings'.</li> 
+<li>2. Click the 'Forwarding and POP/IMAP' tab.</li>
+<li>3. From the first drop-down menu in the "Forwarding" section, select 'Add a Forwarding Address.'</li>
+<li>4. Enter your bespoke Casengo email address you wish to forward your emails to.</li>  
+(For your security, Gmail will send a verification to that email address).</li>
+<li>5. Open your forwarding email account, and find the confirmation message from the Gmail team.</li>  
+<li>6. Click the verification link in that email.</li>
+<li>7. Back in your Gmail account, select the 'Forward a copy of incoming mail to...' option and select your Casengo email address from the drop-down menu.</li>
+<li>8. Select the action you'd like your messages to take from the drop-down menu. You can choose to keep Gmail's copy of the message in your inbox, or you can send it automatically to 'All Mail' or 'Trash'.  
+<li>9. Click 'Save Changes' and you're done.</li>
 
 *   **How can I set up email forwarding for Hotmail?**
 
 You can forward emails from your Hotmail account to your Casengo account by following these simple steps:
 
-1. Sign in to your Windows Live Hotmail,   
-2. Choose 'Inbox' on the upper right of the screen and click 'Options', followed by 'More Options'.  
-3. Go to 'Managing your Account' and choose 'Email Forwarding'.  
-4. Click 'Forward your Mail to Another Email Account', then type-in the email address on the box that says 'Where do you Want your Messages to be Sent?'  
-5. Don't forget to select the check box 'Keep a Copy of Forwarded Messages in your Windows Live Hotmail Inbox'.   
-6. Click 'Save'.
+<li>1. Sign in to your Windows Live Hotmail.</li>  
+<li>2. Choose 'Inbox' on the upper right of the screen and click 'Options', followed by 'More Options'.</li>  
+<li>3. Go to 'Managing your Account' and choose 'Email Forwarding'.</li> 
+<li>4. Click 'Forward your Mail to Another Email Account', then type-in the email address on the box that says 'Where do you Want your Messages to be Sent?'</li>  
+<li>5. Don't forget to select the check box 'Keep a Copy of Forwarded Messages in your Windows Live Hotmail Inbox'.</li> 
+<li>6. Click 'Save'.</li>
 
-*   **How can I customise the look and feel of my knowledge base to fit my WordPress theme ?**
+*   **How can I customise the look and feel of my knowledge base to fit my WordPress theme?**
 
 Download the Casengo FAQ plugin for WordPress to integrate the knowledge base into your site. <a href=\"http://wordpress.org/plugins/casengo-faq-web-self-service-plugin\">Click here</a> to go to the Casengo FAQ plugin page for more information.
+
+*   **Still questioning the benefits of live chat?**
+
+Our team wrote a great article on the benefits of live chat <a href="http://www.casengo.com/blog/live-chat-software-5-benefits/>Live chat software: 5 benefits for webshops</a>
+
+*   **How does Casengo compare to other live chat providers (Zopim, Olark, Snapengage, Zendesk, Clickdesk, Live Chat Inc, Live Person)**
+
+<li> We’re a very popular live chat provider in the world - loved by over 40,000 businesses</li>
+<li> Free for 3 live chat users</li>
+<li> A simple and highly customizable live chat widget to complement your website and taste</li>
+<li> User friendly dashboard lets you monitor live chat visitor activity and manage live chats</li>
+
+*   **Where can I get help if I have more questions about live chat?**
+
+Questions or suggestions? <a href="http://www.casengo.com/support">Click here</a> to have a live chat with us. We'd love to help you out. Our dedicated live chat support team are always standing by to help you along the way.
 
 == Screenshots ==
 
 1. See the Live Chat button implemented
-2. Plugin admin page of Casengo the Widget
+2. Plugin admin page of Casengo Live Chat widget
 3. Overviewing the Casengo agent inbox
 4. Handling a customer inquiry
 
 == Changelog ==
 
-1.0 Initial release
-1.8.6 Improved admin interface
-1.9.0 Minor bugs fixed
-1.9.1 After plugin activation, the browser will be redirected to the settings page automatically. The settings page has moved to its own Casengo menu.
-1.9.4 Bug fixed: compatible with optimization and cache plugins that removes HTML comments
-1.9.5 Support for inline chat (in beta)
-2.0 add custom language support and improved admin user interface
+<li>1.0 Initial live chat release</li>
+<li>1.8.6 Improved live chat admin interface</li>
+<li>1.9.0 Minor live chat bugs fixed</li>
+<li>1.9.1 After live chat plugin activation, the browser will be redirected to the settings page automatically. The settings page has moved to its own Casengo menu.</li>
+<li>1.9.4 Live chat bug fixed: compatible with optimization and cache plugins that removes HTML comments</li>
+<li>1.9.5 Support for inline live chat (in beta)</li>
+<li>2.0 add custom language support and improved admin user interface</li>
 
 ==Readme Generator== 
 
