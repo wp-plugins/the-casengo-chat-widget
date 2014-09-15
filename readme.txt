@@ -68,7 +68,7 @@ Lots of companies, small and large, have been using Casengo Live Chat for a whil
 
 Casengo’s cloud application for customer support empowers online retailers and other small businesses to respond to customer questions faster and better than ever. One team inbox for customer chats, emails and social media posts. Passionately founded in 2011, devised and developed in Amsterdam. Casengo's Live Chat Cloud-based, affordable social customer support software brings the human touch back into customer service and live chat. Regardless of channel type, it simplifies real-time conversation by presenting a unique Live Chat Hybrid Messaging Timeline. Whether a company consists of just one person or a large team, it's always time to Casengo.
 
-Casengo support more than 40.000 customers and was recently named **“1 of the hottest startups in Europe” by Wired.com.**
+Casengo support more than 40.000 customers and was recently named **"1 of the hottest startups in Europe" by Wired.com.**
 
 Go to <a href=\"http://www.casengo.com\" target=\"_blank\" title=\"Casengo\">casengo.com</a> for more information on product features and pricing.
 
@@ -126,7 +126,7 @@ That’s great! You can customize the Live Chat window (the Live Chat widget) to
 <li>4. Click on the editable ‘color’ field and a spectrum of colors will appear. Simply click on the color you fancy to select the background color for your chat widget header. Alternatively, input the hex code if you have this information to hand.</li>
 <li>5.Give your chat window/widget a heading, such as ‘Support’ or ‘Chat now’.</li>
 <li>6. Set the color of your title text by repeating step 3.</li>
-<li>7. Create the ‘Greeting’ people will see when the live chat window appears. For example: “Welcome to Casengo Live Chat”, “Live Chat Window”, “Invitation”, “Pre-Chat Window”, “Offline Message Window”, “Live Chat Window”, “Live Chat Interface”,”How may we help you?”</li>
+<li>7. Create the ‘Greeting’ people will see when the live chat window appears. For example: "Welcome to Casengo Live Chat", "Live Chat Window", "Invitation", "Pre-Chat Window", "Offline Message Window", "Live Chat Window", "Live Chat Interface","How may we help you?"</li>
 <li>8. Upload your company logo by clicking ‘choose file’ > select the JPEG, Gif or PNG file you have on file > and just hit ‘Upload’ to confirm your selection.</li>
 <li>9. Click on ‘Preview’ to see how your chat window looks.</li>
 <li>10. Hit ‘Save’ to lock it in.</li>
@@ -148,12 +148,12 @@ You're able to add multiple live chat screens, in multiple languages. This is us
 
 Here's how:
 <li>1. Go to the Casengo Admin Site > Channels, and choose Chat > Configuration.</li>
-<li>2. Next to the template dropdown menu, click on “Add Template”.</li>
-<li>3. Choose the language/country in the dropdown and give your custom template a name. Hit “Save”.</li>
+<li>2. Next to the template dropdown menu, click on "Add Template".</li>
+<li>3. Choose the language/country in the dropdown and give your custom template a name. Hit "Save".</li>
 <li>4. Choose your newly added language from the dropdown menu.</li>
 <li>5. Add your custom template messages and hit save at the bottom of the page.</li>
-<li>6. Go to “Appearance” and customize the chat widget in the exact way you want it to be. (TIP: Give your new chat widget a label in the “Show advanced settings”. By doing this, you’ll always be able to see in which language the chat started.)</li>
-<li>7. Choose your new language template from the “Language” dropdown menu, and your new script will be waiting for you at the bottom of the page. Copy this script and paste it where you want it to be. Your new custom language chat is now set up!</li> 
+<li>6. Go to "Appearance" and customize the chat widget in the exact way you want it to be. (TIP: Give your new chat widget a label in the "Show advanced settings". By doing this, you’ll always be able to see in which language the chat started.)</li>
+<li>7. Choose your new language template from the "Language" dropdown menu, and your new script will be waiting for you at the bottom of the page. Copy this script and paste it where you want it to be. Your new custom language chat is now set up!</li> 
 
 NOTE: This live chat feature is only for Premium live chat users. 
 
@@ -257,6 +257,7 @@ Questions or suggestions? <a href="http://www.casengo.com/support">Click here</a
 <li>1.9.4 Live chat bug fixed: compatible with optimization and cache plugins that removes HTML comments</li>
 <li>1.9.5 Support for inline live chat (in beta)</li>
 <li>2.0 add custom language support and improved admin user interface</li>
+<li>2.0.2 New screenshots added</li>
 
 ==Readme Generator== 
 
