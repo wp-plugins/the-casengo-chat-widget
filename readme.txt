@@ -233,10 +233,20 @@ Questions or suggestions? <a href="http://www.casengo.com/support">Click here</a
 
 == Screenshots ==
 
-1. See the Live Chat button implemented
-2. Plugin admin page of Casengo Live Chat widget
-3. Overviewing the Casengo agent inbox
+1. Plugin admin page of Casengo Live Chat widget
+2. See the Live Chat button implemented
+3. Configure the chat window the way you want it
 4. Handling a customer inquiry
+5. Handling a customer inquiry
+6. Connect your Twitter account to Casengo
+7. Add Twitter keywords to your Casengo account
+8. Twitter overview in Casengo
+9. Overviewing the Casengo agent inbox
+10. Connect your Facebook account
+11. Connecting your mailbox to Casengo
+12. Adding a mailbox to Casengo
+13. Adding categories to your knowledgebase
+14. Reporting information
 
 == Changelog ==
 
