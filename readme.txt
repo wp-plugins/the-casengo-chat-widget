@@ -4,7 +4,7 @@ Tags: chat, chat online, chat plugin, chat software, chat widget, customer help,
 
 Requires at least: 3.3
 Tested up to: 4.0
-Stable tag: tags/2.0.2
+Stable tag: tags/2.0.1
 
 Casengo Live Chat is Customer Support Software from the Cloud.
 
