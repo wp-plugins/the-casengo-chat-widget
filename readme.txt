@@ -4,9 +4,9 @@ Tags: chat, chat online, chat plugin, chat software, chat widget, customer help,
 
 Requires at least: 3.3
 Tested up to: 3.9.1
-Stable tag: tags/2.0.2
+Stable tag: tags/2.0.1
 
-Casengo Live Chat is Customer Support Software from the Cloud.
+Casengo Live Chat is free, fully functional, easy to use and has great design! Install live chat software on your WordPress site today!
 
 == Description ==
 
@@ -17,6 +17,7 @@ Casengo Live Chat is Customer Support Software from the Cloud.
 <li>**Live Chat Customization.**  Change look and feel of live chat button and form</li>
 <li>**NEW Mobile App.** Use Casengo on your phone or tablet.</li>
 <li>**NEW Twitter search integration.** Keep track of relevant keywords and interact directly</li>
+<li>**NEW Pro-active.** Increase online conversion by automatically a chat window after 5 seconds</li>
 <li>**Facebook integration.**  Never miss another post</li>
 <li>**Multi-brand.**  Manage multiple websites from within Casengo</li>
 <li>**Knowledge base.**  Boost self-service with the Casengo FAQ plugin</li>
@@ -161,6 +162,20 @@ NOTE: This live chat feature is only for Premium live chat users.
 
 All your live chat records and offline messages are stored in our database. You can query for a particular live chat conversation from your Casengo Live Chat inbox. 
 
+*   **How to make the live chat window proactive?**
+
+Just add the following script to your live chat widget script:
+setTimeout(function() {    
+  window.CASENGO.closeInlineStatus(); 
+  window.CASENGO.hideChatBadge();
+  window.CASENGO.openVIPWindow(window.CASENGO.savedURL);
+  window.CASENGO.showInlineChat(); 
+  window.CASENGO.forceInBox();
+ }, 5000);
+
+The standard time interval is 5 seconds (5000 in script). You can change this time interval by changing the number 5000 in the script.
+ 
+
 *   **Can I invite a visitor to have a live chat?**
 
 Yes. You can either manually send a live chat invitation to a visitor or set up the live chat auto invitation to automatically invite your visitors to a live chat.
@@ -235,13 +250,13 @@ Questions or suggestions? <a href="http://www.casengo.com/support">Click here</a
 
 1. Plugin admin page of Casengo Live Chat widget
 2. See the Live Chat button implemented
-3. Configure the chat window the way you want it
-4. Handling a customer inquiry
-5. Handling a customer inquiry
+3. Configure the live chat window the way you want it
+4. Handling a customer live chat inquiry
+5. Handling a customer live chat inquiry
 6. Connect your Twitter account to Casengo
 7. Add Twitter keywords to your Casengo account
 8. Twitter overview in Casengo
-9. Overviewing the Casengo agent inbox
+9. Overviewing the Casengo Live Chat agent inbox
 10. Connect your Facebook account
 11. Connecting your mailbox to Casengo
 12. Adding a mailbox to Casengo
@@ -258,6 +273,8 @@ Questions or suggestions? <a href="http://www.casengo.com/support">Click here</a
 <li>1.9.5 Support for inline live chat (in beta)</li>
 <li>2.0 add custom language support and improved admin user interface</li>
 <li>2.0.2 New screenshots added</li>
+<li>2.1 Added pro-active business rules + live chat php fixes</li>
+
 
 ==Readme Generator== 
 
