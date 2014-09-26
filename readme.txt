@@ -1,10 +1,10 @@
 ﻿=== Casengo Live Chat ===
 Contributors: casengo 
-Tags: chat, chat online, chat plugin, chat software, chat widget, customer help, customer support,free chat, free live chat, live chat, live chat plugin, live chat support plugin, live help, live support,live support plugin, online support, support, support plugin, visitor chat, WordPress chat, zopim, olark, zendesk, live chat inc, snap engage, clickdesk, live person
+Tags: chat, chat online, chat plugin, chat software, chat widget, customer help, customer support,free chat, free live chat, live chat, live chat plugin, live chat support plugin, live help, live support,live support plugin, online support, support, support plugin, visitor chat, WordPress chat, zopim, olark, zendesk
 
 Requires at least: 3.3
-Tested up to: 3.9.1
-Stable tag: tags/2.0.1
+Tested up to: 4.0
+Stable tag: tags/2.1
 
 Casengo Live Chat is free, fully functional, easy to use and has great design! Install live chat software on your WordPress site today!
 
