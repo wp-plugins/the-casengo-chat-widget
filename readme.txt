@@ -1,16 +1,16 @@
-﻿=== Casengo Live Chat ===
+﻿=== Casengo Live Chat Support ===
 Contributors: casengo 
-Tags: chat, chat online, chat plugin, chat software, chat widget, customer help, customer support,free chat, free live chat, live chat, live chat plugin, live chat support plugin, live help, live support,live support plugin, online support, support, support plugin, visitor chat, WordPress chat, zopim, olark, zendesk
+Tags: chat, chat online, chat plugin, chat software, chat widget, customer help, customer support,free chat, free live chat, live chat, live chat plugin, live chat support plugin, live help, live support,live support plugin, online support, support, support plugin, visitor chat, WordPress chat, zopim, olark, zendesk, live chat inc, snap engage, clickdesk, live person
 
 Requires at least: 3.3
 Tested up to: 4.0
 Stable tag: tags/2.1
 
-Casengo Live Chat is free, fully functional, easy to use and has great design! Install live chat software on your WordPress site today!
+Live Chat by Casengo is free, fully functional, easy to use and has great design! Install live chat support on your WordPress site today!
 
 == Description ==
 
-<a href="http://www.casengo.com/">Casengo Live Chat</a> allows you to add live chat to your website quickly and easily. With Casengo Live Chat, you can handle questions via live chat, email, Twitter, or Facebook directly from your website. Casengo Live Chat helps you to respond faster to questions than ever, and to improve their satisfaction with a delicious combination of live chat and email.
+<a href="http://www.casengo.com/">Casengo Live Chat Support</a> allows you to add live chat to your website quickly and easily. With Casengo Live Chat Support, you can handle questions via live chat, email, Twitter, or Facebook directly from your website. Casengo Live Chat Support helps you to respond faster to questions than ever, and to improve their satisfaction with a delicious combination of live chat and email.
 
 **Casengo Live Chat Core Features & Benefits**
 
@@ -35,7 +35,7 @@ Casengo Live Chat is free, fully functional, easy to use and has great design! I
 **Check out the Casengo Live Chat Video**
 [vimeo http://vimeo.com/55199455]
 
-To configure the live chat plugin, you need a Casengo Live Chat account. Have an account already? Way to go! If not, <a href=\"http://get.casengo.com/signup/?ref=wordpress-plugin-page&utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\" target=\"_blank\" title=\"Sign up for a free trial Casengo Live Chat account\">sign up here</a>. You'll be ready to go in two minutes tops. Casengo Live Chat is free to trial for 30 days.
+To configure the live chat support plugin, you need a Casengo Live Chat account. Have an account already? Way to go! If not, <a href=\"http://get.casengo.com/signup/?ref=wordpress-plugin-page&utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\" target=\"_blank\" title=\"Sign up for a free trial Casengo Live Chat account\">sign up here</a>. You'll be ready to go in two minutes tops. Casengo Live Chat is free to trial for 30 days.
 
 **It's really easy. Get started in 2 minutes tops, no training needed.**
 
