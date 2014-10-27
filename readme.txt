@@ -1,10 +1,10 @@
 ﻿=== Casengo Live Chat Support ===
 Contributors: casengo 
-Tags: chat, chat online, chat plugin, chat software, chat widget, customer help, customer support,free chat, free live chat, live chat, live chat plugin, live chat support plugin, live help, live support,live support plugin, online support, support, support plugin, visitor chat, WordPress chat, zopim, olark, zendesk, live chat inc, snap engage, clickdesk, live person
+Tags: chat, chat online, chat plugin, chat software, chat widget, customer help, customer support,free chat, free live chat, live chat, live chat plugin, live chat support plugin, live help, live support,live support plugin, online support, support, support plugin, visitor chat, WordPress chat, zopim, olark, zendesk, live chat inc, snap engage
 
 Requires at least: 3.3
 Tested up to: 4.0
-Stable tag: tags/2.1
+Stable tag: tags/2.1.1
 
 Live Chat by Casengo is free, fully functional, easy to use and has great design! Install live chat support on your WordPress site today!
 
@@ -37,7 +37,7 @@ Live Chat by Casengo is free, fully functional, easy to use and has great design
 
 To configure the live chat support plugin, you need a Casengo Live Chat account. Have an account already? Way to go! If not, <a href=\"http://get.casengo.com/signup/?ref=wordpress-plugin-page&utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\" target=\"_blank\" title=\"Sign up for a free trial Casengo Live Chat account\">sign up here</a>. You'll be ready to go in two minutes tops. Casengo Live Chat is free to trial for 30 days.
 
-**It's really easy. Get started in 2 minutes tops, no training needed.**
+**It's really easy. Get started in 2 minutes tops.**
 
 <li>**Step 1.**  Create a free trial Casengo Live Chat account at <a href=\"http://get.casengo.com/signup/?ref=wordpress-plugin-page&utm_source=WordPress&utm_medium=Plugin&utm_campaign=WordPress%2BPlugin%2BSignups\" target=\"_blank\">get.casengo.com/signup</a></li>
 <li>**Step 2.**  Log into your WordPress Admin Site, search for plugin 'Casengo Live Chat' and install it.</li>
