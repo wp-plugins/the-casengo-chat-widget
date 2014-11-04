@@ -235,7 +235,7 @@ Download the Casengo FAQ plugin for WordPress to integrate the knowledge base in
 
 Our team wrote a great article on the benefits of live chat <a href="http://www.casengo.com/blog/live-chat-software-5-benefits/">Live chat software: 5 benefits for webshops</a>
 
-*   **How does Casengo compare to other live chat providers (Zopim, Olark, Snapengage, Zendesk, Clickdesk, Live Chat Inc, Live Person)**
+*   **How does Casengo Live Chat compare to other live chat providers (Zopim, Olark, Snapengage, Zendesk, Clickdesk, Live Chat Inc, Live Person)**
 
 <li> We’re a very popular live chat provider in the world - loved by over 40,000 businesses</li>
 <li> Free for 3 live chat users</li>
