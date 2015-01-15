@@ -1,5 +1,5 @@
 ﻿=== Casengo Live Chat Support ===
-Contributors: casengo 
+Contributors: casengo
 Tags: chat, chat online, chat plugin, chat software, chat widget, customer help, customer support,free chat, free live chat, live chat, live chat plugin, live chat support plugin, live help, live support,live support plugin, online support, support, support plugin, visitor chat, WordPress chat, zopim, olark, zendesk, live chat inc, snap engage
 
 Requires at least: 3.3
@@ -69,7 +69,7 @@ Lots of companies, small and large, have been using Casengo Live Chat for a whil
 
 Casengo’s cloud application for customer support empowers online retailers and other small businesses to respond to customer questions faster and better than ever. One team inbox for customer chats, emails and social media posts. Passionately founded in 2011, devised and developed in Amsterdam. Casengo's Live Chat Cloud-based, affordable social customer support software brings the human touch back into customer service and live chat. Regardless of channel type, it simplifies real-time conversation by presenting a unique Live Chat Hybrid Messaging Timeline. Whether a company consists of just one person or a large team, it's always time to Casengo.
 
-Casengo support more than 40.000 customers and was recently named **"1 of the hottest startups in Europe" by Wired.com.**
+Casengo support more than 50.000 customers and was recently named **"1 of the hottest startups in Europe" by Wired.com.**
 
 Go to <a href=\"http://www.casengo.com\" target=\"_blank\" title=\"Casengo\">casengo.com</a> for more information on product features and pricing.
 
@@ -145,7 +145,7 @@ Note: Only available at 'Basic', 'Premium' and 'Enterprise'.
 
 *   **How do I add a custom template for multiple live chat screens?**
 
-You're able to add multiple live chat screens, in multiple languages. This is useful if you've got a multilingual website, or if you want to use one Casengo Live Chat account for multiple websites. 
+You're able to add multiple live chat screens, in multiple languages. This is useful if you've got a multilingual website, or if you want to use one Casengo Live Chat account for multiple websites.
 
 Here's how:
 <li>1. Go to the Casengo Admin Site > Channels, and choose Chat > Configuration.</li>
@@ -154,27 +154,27 @@ Here's how:
 <li>4. Choose your newly added language from the dropdown menu.</li>
 <li>5. Add your custom template messages and hit save at the bottom of the page.</li>
 <li>6. Go to "Appearance" and customize the chat widget in the exact way you want it to be. (TIP: Give your new chat widget a label in the "Show advanced settings". By doing this, you’ll always be able to see in which language the chat started.)</li>
-<li>7. Choose your new language template from the "Language" dropdown menu, and your new script will be waiting for you at the bottom of the page. Copy this script and paste it where you want it to be. Your new custom language chat is now set up!</li> 
+<li>7. Choose your new language template from the "Language" dropdown menu, and your new script will be waiting for you at the bottom of the page. Copy this script and paste it where you want it to be. Your new custom language chat is now set up!</li>
 
-NOTE: This live chat feature is only for Premium live chat users. 
+NOTE: This live chat feature is only for Premium live chat users.
 
 *   **How can I view my live chat history?**
 
-All your live chat records and offline messages are stored in our database. You can query for a particular live chat conversation from your Casengo Live Chat inbox. 
+All your live chat records and offline messages are stored in our database. You can query for a particular live chat conversation from your Casengo Live Chat inbox.
 
 *   **How to make the live chat window proactive?**
 
 Just add the following script to your live chat widget script:
-setTimeout(function() {    
-  window.CASENGO.closeInlineStatus(); 
+setTimeout(function() {
+  window.CASENGO.closeInlineStatus();
   window.CASENGO.hideChatBadge();
   window.CASENGO.openVIPWindow(window.CASENGO.savedURL);
-  window.CASENGO.showInlineChat(); 
+  window.CASENGO.showInlineChat();
   window.CASENGO.forceInBox();
  }, 5000);
 
 The standard time interval is 5 seconds (5000 in script). You can change this time interval by changing the number 5000 in the script.
- 
+
 
 *   **Can I invite a visitor to have a live chat?**
 
@@ -192,10 +192,10 @@ Yes, you can. Just download and install the <a href=\"http://wordpress.org/plugi
 It is easy... simply put your "support@yourcompanyname.casengo.com" (the email address you have received from Casengo to forward your emails to) in
 the contact form.
 
-Steps to take:  
+Steps to take:
 <li>1. Login to your wordpress admin.</li>
-<li>2. Click on "Contact" in admin menu.</li> 
-<li>3. Click on the form you want to use.</li> 
+<li>2. Click on "Contact" in admin menu.</li>
+<li>3. Click on the form you want to use.</li>
 <li>4. In the "Mail" fields include "support@yourcompanyname.casengo.com" in the "To" field.</li>
 <li>5. Save the changes made.</li>
 
@@ -276,6 +276,6 @@ Questions or suggestions? <a href="http://www.casengo.com/support">Click here</a
 <li>2.1 Added pro-active business rules + live chat php fixes</li>
 
 
-==Readme Generator== 
+==Readme Generator==
 
 This Readme file was generated using <a href = 'http://sudarmuthu.com/wordpress/wp-readme'>wp-readme</a>, which generates readme files for WordPress Plugins.
