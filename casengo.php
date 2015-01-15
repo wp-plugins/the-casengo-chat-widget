@@ -5,7 +5,7 @@
    Description: A plugin to add the Casengo widget to the Wordpress site
    Version: 2.1.1
    Author: Thijs van der Veen
-   Author URI: http://www.casengo.com
+   Author URI: https://www.casengo.com
    License: GPL2
    */
 
