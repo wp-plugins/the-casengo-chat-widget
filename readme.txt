@@ -1,4 +1,4 @@
-﻿=== Casengo Live Chat Support ===
+=== Casengo Live Chat Support ===
 Contributors: casengo
 Tags: chat, chat online, chat plugin, chat software, chat widget, customer help, customer support,free chat, free live chat, live chat, live chat plugin, live chat support plugin, live help, live support,live support plugin, online support, support, support plugin, visitor chat, WordPress chat, zopim, olark, zendesk, live chat inc, snap engage
 
@@ -237,7 +237,7 @@ Our team wrote a great article on the benefits of live chat <a href="http://www.
 
 *   **How does Casengo Live Chat compare to other live chat providers (Zopim, Olark, Snapengage, Zendesk, Clickdesk, Live Chat Inc, Live Person)**
 
-<li> We’re a very popular live chat provider in the world - loved by over 40,000 businesses</li>
+<li> We’re a very popular live chat provider in the world - loved by over 50,000 businesses</li>
 <li> Free for 3 live chat users</li>
 <li> A simple and highly customizable live chat widget to complement your website and taste</li>
 <li> User friendly dashboard lets you monitor live chat visitor activity and manage live chats</li>
