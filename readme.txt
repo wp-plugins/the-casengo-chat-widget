@@ -15,6 +15,7 @@ Live Chat by Casengo is free, fully functional, easy to use and has great design
 **Casengo Live Chat Core Features & Benefits**
 
 <li>**Live Chat Customization.**  Change look and feel of live chat button and form</li>
+<li>**NEW Forward cases.** Use Casengo to forward cases to people outside of your customer support team.</li>
 <li>**NEW Mobile App.** Use Casengo on your phone or tablet.</li>
 <li>**NEW Twitter search integration.** Keep track of relevant keywords and interact directly</li>
 <li>**NEW Pro-active.** Increase online conversion by automatically a chat window after 5 seconds</li>
