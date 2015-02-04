@@ -14,6 +14,7 @@ Live Chat by Casengo is free, fully functional, easy to use and has great design
 
 **Casengo Live Chat Core Features & Benefits**
 
+<li>**Casengo supports WhatsApp as a customer service channel.** WhatsApp has been integrated to help businesses communicate with customers</li>
 <li>**Live Chat Customization.**  Change look and feel of live chat button and form</li>
 <li>**NEW Forward cases.** Use Casengo to forward cases to people outside of your customer support team.</li>
 <li>**NEW Mobile App.** Use Casengo on your phone or tablet.</li>
